@@ -1,0 +1,1463 @@
+﻿City,Country,Date,Description,Avg. Cloud,Avg. Daytemp,Avg. Speed
+Adelaide,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Adelaide,AU,28/5/2015,light rain,32,17.34,5.95
+Adelaide,AU,29/5/2015,sky is clear,8,14.83,3.22
+Adelaide,AU,30/5/2015,light rain,86,11.44,2.85
+Adelaide,AU,31/5/2015,light rain,56,12.22,6.73
+Albany,AU,27/5/2015,light rain,92,12.39,3.66
+Albany,AU,28/5/2015,overcast clouds,92,14.34,3.4
+Albany,AU,29/5/2015,sky is clear,0,15.03,2.57
+Albany,AU,30/5/2015,light rain,46,16.44,6.04
+Albany,AU,31/5/2015,light rain,12,16.61,1.65
+Albury,AU,27/5/2015,light rain,92,11.19,2.11
+Albury,AU,28/5/2015,heavy intensity rain,92,12.31,3.45
+Albury,AU,29/5/2015,light rain,88,11.63,3.42
+Albury,AU,30/5/2015,light rain,89,8.39,1.55
+Albury,AU,31/5/2015,moderate rain,90,7.67,4.61
+Alice Springs,AU,27/5/2015,scattered clouds,48,13.89,2.91
+Alice Springs,AU,28/5/2015,sky is clear,8,25.97,4
+Alice Springs,AU,29/5/2015,scattered clouds,36,26.73,4.47
+Alice Springs,AU,31/5/2015,moderate rain,100,13.46,4.81
+Ararat,AU,27/5/2015,light rain,68,10.19,5.06
+Ararat,AU,28/5/2015,moderate rain,24,13.86,7.6
+Ararat,AU,29/5/2015,light rain,24,12.28,4.52
+Ararat,AU,30/5/2015,light rain,92,9.79,3.83
+Ararat,AU,31/5/2015,light rain,85,8.07,7.99
+Armidale,AU,27/5/2015,light rain,24,4.3,0.91
+Armidale,AU,28/5/2015,light rain,48,11.26,1.27
+Armidale,AU,29/5/2015,light rain,36,13.13,2.57
+Armidale,AU,30/5/2015,light rain,83,11.99,1.2
+Armidale,AU,31/5/2015,light rain,69,16.12,3.91
+Atherton,AU,27/5/2015,light rain,12,19.14,4.31
+Atherton,AU,28/5/2015,light rain,92,24.91,6.8
+Atherton,AU,29/5/2015,light rain,92,22.73,5.67
+Atherton,AU,30/5/2015,light rain,8,21.84,1.87
+Atherton,AU,31/5/2015,light rain,32,24.02,1.4
+Australind,AU,27/5/2015,light rain,48,11.85,3.91
+Australind,AU,28/5/2015,sky is clear,0,14.74,4.95
+Australind,AU,29/5/2015,sky is clear,0,14.93,3.57
+Australind,AU,30/5/2015,light rain,2,17.19,2.93
+Australind,AU,31/5/2015,sky is clear,0,17.11,1.81
+Ayr,AU,27/5/2015,light rain,20,18.04,3.66
+Ayr,AU,28/5/2015,few clouds,12,27.39,5.75
+Ayr,AU,29/5/2015,moderate rain,44,26.08,5.22
+Ayr,AU,30/5/2015,light rain,20,22.89,1.6
+Ayr,AU,31/5/2015,light rain,64,23.87,3.42
+Bairnsdale,AU,27/5/2015,sky is clear,0,12.79,3.91
+Bairnsdale,AU,28/5/2015,scattered clouds,44,17.75,4
+Bairnsdale,AU,29/5/2015,sky is clear,0,15.63,6.02
+Bairnsdale,AU,30/5/2015,sky is clear,7,11.04,3.1
+Bairnsdale,AU,31/5/2015,moderate rain,8,12.87,9.42
+Ballarat,AU,27/5/2015,few clouds,20,11.04,7.16
+Ballarat,AU,28/5/2015,moderate rain,0,15.48,11.25
+Ballarat,AU,29/5/2015,scattered clouds,32,12.13,7.07
+Ballarat,AU,30/5/2015,light rain,72,11.04,5.92
+Ballarat,AU,31/5/2015,moderate rain,93,8.07,7.96
+Ballina,AU,28/5/2015,sky is clear,0,20.61,1.17
+Ballina,AU,29/5/2015,few clouds,20,21.58,5.02
+Ballina,AU,30/5/2015,light rain,53,21.44,3.3
+Ballina,AU,31/5/2015,light rain,24,22.27,7.28
+Ballina,AU,1/6/2015,sky is clear,0,19.73,4.26
+Batemans Bay,AU,28/5/2015,sky is clear,8,13.79,1.52
+Batemans Bay,AU,29/5/2015,sky is clear,0,16.83,1.67
+Batemans Bay,AU,30/5/2015,light rain,26,11.79,1.81
+Batemans Bay,AU,31/5/2015,light rain,0,12.82,4.41
+Batemans Bay,AU,1/6/2015,light rain,5,12.03,6.97
+Benalla,AU,27/5/2015,light rain,92,10.64,2.46
+Benalla,AU,28/5/2015,moderate rain,64,11.67,3.1
+Benalla,AU,29/5/2015,light rain,44,11.23,2.47
+Benalla,AU,30/5/2015,light rain,87,8.89,2.09
+Benalla,AU,31/5/2015,moderate rain,55,6.77,5.25
+Bendigo,AU,27/5/2015,light rain,32,8.79,2.81
+Bendigo,AU,28/5/2015,moderate rain,68,11.98,4.75
+Bendigo,AU,29/5/2015,light rain,44,11.28,3.67
+Bendigo,AU,30/5/2015,light rain,89,9.79,3.75
+Bendigo,AU,31/5/2015,light rain,90,8.12,7.81
+Biloela,AU,28/5/2015,sky is clear,0,20.58,3.12
+Biloela,AU,29/5/2015,sky is clear,0,22.38,3.67
+Biloela,AU,30/5/2015,light rain,60,20.64,2.34
+Biloela,AU,31/5/2015,heavy intensity rain,92,21.17,1.65
+Biloela,AU,1/6/2015,light rain,76,19.03,4.04
+Blackwater,AU,27/5/2015,sky is clear,0,10.9,1.21
+Blackwater,AU,28/5/2015,sky is clear,0,25.14,2.65
+Blackwater,AU,29/5/2015,sky is clear,0,25.88,1.87
+Blackwater,AU,30/5/2015,light rain,80,20.69,1.91
+Blackwater,AU,31/5/2015,moderate rain,98,20.62,2.32
+Bongaree,AU,28/5/2015,light rain,36,18.71,1.67
+Bongaree,AU,29/5/2015,light rain,8,18.83,1.42
+Bongaree,AU,30/5/2015,light rain,45,20.44,2.02
+Bongaree,AU,31/5/2015,light rain,71,20.17,1.82
+Bongaree,AU,1/6/2015,sky is clear,0,17.13,4.1
+Bowen,AU,27/5/2015,light rain,64,24.09,9.31
+Bowen,AU,28/5/2015,sky is clear,0,25.3,9.25
+Bowen,AU,29/5/2015,light rain,56,24.93,7.87
+Bowen,AU,30/5/2015,light rain,23,23.14,3
+Bowen,AU,31/5/2015,moderate rain,46,24.17,2.35
+Bowral,AU,28/5/2015,light rain,56,11.25,1.17
+Bowral,AU,29/5/2015,light rain,88,12.63,2.37
+Bowral,AU,30/5/2015,light rain,82,8.49,0.95
+Bowral,AU,31/5/2015,light rain,83,11.62,3.34
+Bowral,AU,1/6/2015,light rain,9,6.88,4.45
+Brisbane,AU,28/5/2015,light rain,36,18.71,1.67
+Brisbane,AU,29/5/2015,light rain,8,18.83,1.42
+Brisbane,AU,30/5/2015,light rain,45,20.44,2.02
+Brisbane,AU,31/5/2015,light rain,71,20.17,1.82
+Brisbane,AU,1/6/2015,sky is clear,0,17.13,4.1
+Broken Hill,AU,27/5/2015,overcast clouds,92,13.54,2.21
+Broken Hill,AU,28/5/2015,moderate rain,68,20.55,5.45
+Broken Hill,AU,29/5/2015,moderate rain,92,14.03,3.12
+Broken Hill,AU,30/5/2015,moderate rain,99,12.64,2.19
+Broken Hill,AU,31/5/2015,light rain,4,10.47,3.92
+Broome,AU,27/5/2015,sky is clear,0,26.24,4.71
+Broome,AU,28/5/2015,sky is clear,0,26.29,3.8
+Broome,AU,29/5/2015,sky is clear,0,26.28,4.27
+Buderim,AU,28/5/2015,light rain,36,18.5,1.67
+Buderim,AU,29/5/2015,light rain,8,18.83,1.42
+Buderim,AU,30/5/2015,light rain,45,20.44,2.02
+Buderim,AU,31/5/2015,light rain,71,20.17,1.82
+Buderim,AU,1/6/2015,sky is clear,0,17.13,4.1
+Bunbury,AU,27/5/2015,light rain,48,10.99,3.91
+Bunbury,AU,28/5/2015,sky is clear,0,14.39,4.95
+Bunbury,AU,29/5/2015,sky is clear,0,14.93,3.57
+Bunbury,AU,30/5/2015,light rain,2,17.19,2.93
+Bunbury,AU,31/5/2015,sky is clear,0,17.11,1.81
+Bundaberg,AU,28/5/2015,light rain,8,19.44,1.97
+Bundaberg,AU,29/5/2015,light rain,0,20.38,1.87
+Bundaberg,AU,30/5/2015,light rain,50,20.79,1.85
+Bundaberg,AU,31/5/2015,moderate rain,94,21.12,1.6
+Bundaberg,AU,1/6/2015,light rain,30,18.48,3.67
+Burnie,AU,27/5/2015,light rain,68,13.39,7.61
+Burnie,AU,28/5/2015,heavy intensity rain,92,13.13,12.2
+Burnie,AU,29/5/2015,scattered clouds,44,13.18,11.87
+Burnie,AU,30/5/2015,heavy intensity rain,40,11.89,8.24
+Burnie,AU,31/5/2015,moderate rain,77,8.77,6.63
+Burpengary,AU,28/5/2015,light rain,36,18.71,1.67
+Burpengary,AU,29/5/2015,light rain,8,18.83,1.42
+Burpengary,AU,30/5/2015,light rain,45,20.44,2.02
+Burpengary,AU,31/5/2015,light rain,71,20.17,1.82
+Burpengary,AU,1/6/2015,sky is clear,0,17.13,4.1
+Busselton,AU,27/5/2015,overcast clouds,88,14.19,5.26
+Busselton,AU,28/5/2015,broken clouds,80,15.25,4.15
+Busselton,AU,29/5/2015,few clouds,20,14.53,2.47
+Busselton,AU,30/5/2015,light rain,3,17.09,3.16
+Busselton,AU,31/5/2015,sky is clear,0,17.31,1.91
+Caboolture,AU,28/5/2015,light rain,36,18.5,1.67
+Caboolture,AU,29/5/2015,light rain,8,18.83,1.42
+Caboolture,AU,30/5/2015,light rain,45,20.44,2.02
+Caboolture,AU,31/5/2015,light rain,71,20.17,1.82
+Caboolture,AU,1/6/2015,sky is clear,0,17.13,4.1
+Cairns,AU,27/5/2015,scattered clouds,36,23.39,6.81
+Cairns,AU,28/5/2015,light rain,92,23.86,7.5
+Cairns,AU,29/5/2015,light rain,92,23.93,6.82
+Cairns,AU,30/5/2015,light rain,4,24.04,5.03
+Cairns,AU,31/5/2015,light rain,61,24.17,2.71
+Caloundra,AU,28/5/2015,light rain,36,18.5,1.67
+Caloundra,AU,29/5/2015,light rain,8,18.83,1.42
+Caloundra,AU,30/5/2015,light rain,45,20.44,2.02
+Caloundra,AU,31/5/2015,light rain,71,20.17,1.82
+Caloundra,AU,1/6/2015,sky is clear,0,17.13,4.1
+Canberra,AU,27/5/2015,light rain,92,8.54,1.36
+Canberra,AU,28/5/2015,light rain,76,12.07,2.55
+Canberra,AU,29/5/2015,moderate rain,88,11.53,6.37
+Canberra,AU,30/5/2015,light rain,75,6.74,0.83
+Canberra,AU,31/5/2015,sky is clear,55,7.92,5.99
+Carnarvon,AU,27/5/2015,scattered clouds,36,17.99,5.81
+Carnarvon,AU,28/5/2015,sky is clear,0,21.56,4
+Carnarvon,AU,29/5/2015,sky is clear,0,21.53,3.42
+Carnarvon,AU,30/5/2015,sky is clear,0,19.64,6.26
+Carnarvon,AU,31/5/2015,sky is clear,0,20.71,5.96
+Casino,AU,28/5/2015,sky is clear,0,16.78,1.32
+Casino,AU,29/5/2015,scattered clouds,36,18.33,1.32
+Casino,AU,30/5/2015,light rain,45,17.34,1.17
+Casino,AU,31/5/2015,light rain,26,19.92,2.22
+Casino,AU,1/6/2015,sky is clear,0,16.58,0.77
+Castlemaine,AU,27/5/2015,light rain,32,8.79,2.81
+Castlemaine,AU,28/5/2015,moderate rain,68,11.98,4.75
+Castlemaine,AU,29/5/2015,light rain,44,11.28,3.67
+Castlemaine,AU,30/5/2015,light rain,89,9.79,3.75
+Castlemaine,AU,31/5/2015,light rain,90,8.12,7.81
+Cessnock,AU,28/5/2015,light rain,92,14.06,1.72
+Cessnock,AU,29/5/2015,light rain,92,15.08,2.72
+Cessnock,AU,30/5/2015,light rain,78,12.99,1.37
+Cessnock,AU,31/5/2015,light rain,94,15.72,3.39
+Cessnock,AU,1/6/2015,sky is clear,0,10.73,3.56
+Charters Towers,AU,27/5/2015,sky is clear,0,15.19,3.36
+Charters Towers,AU,28/5/2015,sky is clear,0,26,5.7
+Charters Towers,AU,29/5/2015,light rain,44,22.83,4.52
+Charters Towers,AU,30/5/2015,light rain,32,21.84,1.45
+Charters Towers,AU,31/5/2015,light rain,61,22.32,2.04
+Clifton Springs,AU,27/5/2015,light rain,24,12.55,3.86
+Clifton Springs,AU,28/5/2015,moderate rain,0,15.84,4.9
+Clifton Springs,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Clifton Springs,AU,30/5/2015,light rain,61,11.49,6.57
+Clifton Springs,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Coffs Harbour,AU,28/5/2015,sky is clear,0,16.71,1.52
+Coffs Harbour,AU,29/5/2015,sky is clear,8,17.38,1.77
+Coffs Harbour,AU,30/5/2015,light rain,33,17.74,1.62
+Coffs Harbour,AU,31/5/2015,light rain,10,19.42,2.95
+Coffs Harbour,AU,1/6/2015,sky is clear,0,15.93,2.65
+Colac,AU,27/5/2015,few clouds,20,11.05,7.16
+Colac,AU,28/5/2015,moderate rain,0,15.49,11.25
+Colac,AU,29/5/2015,scattered clouds,32,12.13,7.07
+Colac,AU,30/5/2015,light rain,72,11.04,5.92
+Colac,AU,31/5/2015,moderate rain,93,8.07,7.96
+Collie,AU,27/5/2015,light rain,48,10.99,3.91
+Collie,AU,28/5/2015,sky is clear,0,14.39,4.95
+Collie,AU,29/5/2015,sky is clear,0,14.93,3.57
+Collie,AU,30/5/2015,light rain,2,17.19,2.93
+Collie,AU,31/5/2015,sky is clear,0,17.11,1.81
+Coolum Beach,AU,28/5/2015,light rain,36,18.5,1.67
+Coolum Beach,AU,29/5/2015,light rain,8,18.83,1.42
+Coolum Beach,AU,30/5/2015,light rain,45,20.44,2.02
+Coolum Beach,AU,31/5/2015,light rain,71,20.17,1.82
+Coolum Beach,AU,1/6/2015,sky is clear,0,17.13,4.1
+Cooma,AU,27/5/2015,light rain,48,5.79,3.01
+Cooma,AU,28/5/2015,light rain,64,11.14,4.8
+Cooma,AU,29/5/2015,light rain,0,9.23,6.92
+Cooma,AU,30/5/2015,light rain,59,4.99,1.39
+Cooma,AU,31/5/2015,light snow,16,7.22,5.91
+Cootamundra,AU,27/5/2015,light rain,92,9.24,1.16
+Cootamundra,AU,28/5/2015,light rain,80,12.73,1.75
+Cootamundra,AU,29/5/2015,moderate rain,92,12.18,4.67
+Cootamundra,AU,30/5/2015,light rain,86,8.74,1.43
+Cootamundra,AU,31/5/2015,sky is clear,51,8.47,5.46
+Corowa,AU,27/5/2015,light rain,76,9.94,3.01
+Corowa,AU,28/5/2015,light rain,68,15.16,4.7
+Corowa,AU,29/5/2015,sky is clear,8,13.83,4.77
+Corowa,AU,30/5/2015,light rain,94,9.89,2.97
+Corowa,AU,31/5/2015,moderate rain,73,8.87,6.07
+Cowra,AU,27/5/2015,light rain,92,9.69,1.41
+Cowra,AU,28/5/2015,light rain,80,12.91,3.3
+Cowra,AU,29/5/2015,moderate rain,92,11.63,4.67
+Cowra,AU,30/5/2015,light rain,76,7.89,1.62
+Cowra,AU,31/5/2015,moderate rain,85,9.57,4.92
+Craigieburn,AU,27/5/2015,light rain,24,12.14,3.86
+Craigieburn,AU,28/5/2015,moderate rain,0,15.67,4.9
+Craigieburn,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Craigieburn,AU,30/5/2015,light rain,61,11.49,6.57
+Craigieburn,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Cranbourne,AU,27/5/2015,light rain,24,12.55,3.86
+Cranbourne,AU,28/5/2015,moderate rain,0,15.84,4.9
+Cranbourne,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Cranbourne,AU,30/5/2015,light rain,61,11.49,6.57
+Cranbourne,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Dalby,AU,28/5/2015,light rain,80,15.43,2.12
+Dalby,AU,29/5/2015,light rain,36,16.98,2.07
+Dalby,AU,30/5/2015,light rain,33,18.04,2.01
+Dalby,AU,31/5/2015,moderate rain,85,19.32,4.5
+Dalby,AU,1/6/2015,light rain,6,12.28,4.84
+Darwin,AU,27/5/2015,few clouds,12,27.69,7.16
+Deception Bay,AU,28/5/2015,light rain,36,18.5,1.67
+Deception Bay,AU,29/5/2015,light rain,8,18.83,1.42
+Deception Bay,AU,30/5/2015,light rain,45,20.44,2.02
+Deception Bay,AU,31/5/2015,light rain,71,20.17,1.82
+Deception Bay,AU,1/6/2015,sky is clear,0,17.13,4.1
+Deniliquin,AU,27/5/2015,light rain,12,8.84,3.31
+Deniliquin,AU,28/5/2015,few clouds,24,16.96,5.05
+Deniliquin,AU,29/5/2015,sky is clear,0,14.43,4.67
+Deniliquin,AU,30/5/2015,light rain,95,9.99,3.54
+Deniliquin,AU,31/5/2015,moderate rain,55,9.47,7.09
+Devonport,AU,27/5/2015,light rain,68,13.39,7.61
+Devonport,AU,28/5/2015,heavy intensity rain,92,13.13,12.2
+Devonport,AU,29/5/2015,scattered clouds,44,13.18,11.87
+Devonport,AU,30/5/2015,heavy intensity rain,40,11.89,8.24
+Devonport,AU,31/5/2015,moderate rain,77,8.77,6.63
+Dubbo,AU,27/5/2015,light rain,92,12.79,3.46
+Dubbo,AU,28/5/2015,light rain,92,15.24,5.2
+Dubbo,AU,29/5/2015,heavy intensity rain,92,14.23,2.12
+Dubbo,AU,30/5/2015,moderate rain,79,11.64,1.46
+Dubbo,AU,31/5/2015,moderate rain,100,12.67,5.52
+Emerald,AU,27/5/2015,sky is clear,0,10.54,1.51
+Emerald,AU,28/5/2015,sky is clear,0,24.33,3.45
+Emerald,AU,29/5/2015,sky is clear,0,25.63,2.22
+Emerald,AU,30/5/2015,light rain,63,20.09,1.94
+Emerald,AU,31/5/2015,moderate rain,97,19.62,1.82
+Esperance,AU,27/5/2015,light rain,68,16.39,7.11
+Esperance,AU,28/5/2015,scattered clouds,36,16.16,5.7
+Esperance,AU,29/5/2015,overcast clouds,92,15.98,2.97
+Esperance,AU,30/5/2015,moderate rain,41,16.94,6.87
+Esperance,AU,31/5/2015,moderate rain,36,15.06,2.99
+Flinders,AU,28/5/2015,sky is clear,0,18.37,3.17
+Flinders,AU,29/5/2015,light rain,92,17.88,5.27
+Flinders,AU,30/5/2015,light rain,46,16.14,2.32
+Flinders,AU,31/5/2015,light rain,17,16.62,7.18
+Flinders,AU,1/6/2015,light rain,10,14.63,11.23
+Forbes,AU,27/5/2015,light rain,92,10.79,1.76
+Forbes,AU,28/5/2015,light rain,92,14.9,3.45
+Forbes,AU,29/5/2015,moderate rain,92,12.93,2.97
+Forbes,AU,30/5/2015,moderate rain,92,11.19,1.92
+Forbes,AU,31/5/2015,moderate rain,97,11.27,5.45
+Gatton,AU,28/5/2015,sky is clear,0,14.59,2.22
+Gatton,AU,29/5/2015,broken clouds,68,15.98,1.97
+Gatton,AU,30/5/2015,light rain,79,15.49,1.4
+Gatton,AU,31/5/2015,moderate rain,77,18.67,4.17
+Gatton,AU,1/6/2015,sky is clear,0,11.13,5.98
+Gawler,AU,27/5/2015,scattered clouds,32,11.09,2.96
+Gawler,AU,28/5/2015,light rain,32,17.71,5.95
+Gawler,AU,29/5/2015,sky is clear,8,14.83,3.22
+Gawler,AU,30/5/2015,light rain,86,11.44,2.85
+Gawler,AU,31/5/2015,light rain,56,12.22,6.73
+Geelong,AU,27/5/2015,few clouds,20,11.05,7.16
+Geelong,AU,28/5/2015,moderate rain,0,15.49,11.25
+Geelong,AU,29/5/2015,scattered clouds,32,12.13,7.07
+Geelong,AU,30/5/2015,light rain,72,11.04,5.92
+Geelong,AU,31/5/2015,moderate rain,93,8.07,7.96
+Geraldton,AU,27/5/2015,scattered clouds,32,11.29,4.96
+Geraldton,AU,28/5/2015,sky is clear,0,18.97,4.9
+Geraldton,AU,29/5/2015,sky is clear,0,18.58,4.22
+Geraldton,AU,30/5/2015,sky is clear,0,19.64,5.53
+Geraldton,AU,31/5/2015,sky is clear,0,19.61,2.92
+Gladstone,AU,28/5/2015,sky is clear,0,20.58,3.12
+Gladstone,AU,29/5/2015,sky is clear,0,22.38,3.67
+Gladstone,AU,30/5/2015,light rain,60,20.64,2.34
+Gladstone,AU,31/5/2015,heavy intensity rain,92,21.17,1.65
+Gladstone,AU,1/6/2015,light rain,76,19.03,4.04
+Gold Coast,AU,28/5/2015,sky is clear,0,17.64,1.32
+Gold Coast,AU,29/5/2015,light rain,36,17.73,1.12
+Gold Coast,AU,30/5/2015,light rain,60,17.49,1.44
+Gold Coast,AU,31/5/2015,light rain,73,19.62,1.79
+Gold Coast,AU,1/6/2015,sky is clear,0,16.23,2.84
+Goulburn,AU,28/5/2015,light rain,24,12.56,1.52
+Goulburn,AU,29/5/2015,light rain,80,13.58,3.87
+Goulburn,AU,30/5/2015,light rain,61,8.99,1.39
+Goulburn,AU,31/5/2015,light rain,30,11.12,4.93
+Goulburn,AU,1/6/2015,light rain,4,8.83,5.53
+Grafton,AU,28/5/2015,sky is clear,0,16.8,1.52
+Grafton,AU,29/5/2015,sky is clear,8,17.38,1.77
+Grafton,AU,30/5/2015,light rain,33,17.74,1.62
+Grafton,AU,31/5/2015,light rain,10,19.42,2.95
+Grafton,AU,1/6/2015,sky is clear,0,15.93,2.65
+Griffith,AU,27/5/2015,few clouds,24,8.89,2.11
+Griffith,AU,28/5/2015,moderate rain,12,15.78,3.95
+Griffith,AU,29/5/2015,broken clouds,68,13.93,3.32
+Griffith,AU,30/5/2015,moderate rain,97,10.29,2.68
+Griffith,AU,31/5/2015,light rain,75,9.97,6.62
+Gunnedah,AU,28/5/2015,light rain,36,14.7,1.87
+Gunnedah,AU,29/5/2015,light rain,92,14.08,1.82
+Gunnedah,AU,30/5/2015,light rain,81,12.54,1.76
+Gunnedah,AU,31/5/2015,moderate rain,98,14.27,4.24
+Gunnedah,AU,1/6/2015,light rain,10,6.88,4.2
+Gympie,AU,28/5/2015,scattered clouds,32,21.84,1.97
+Gympie,AU,29/5/2015,light rain,56,20.73,0.67
+Gympie,AU,30/5/2015,moderate rain,45,21.19,1.26
+Gympie,AU,31/5/2015,moderate rain,56,21.62,1.72
+Gympie,AU,1/6/2015,light rain,0,19.13,2.82
+Hamilton,AU,27/5/2015,light rain,36,11.79,8.51
+Hamilton,AU,28/5/2015,moderate rain,44,14.19,10.15
+Hamilton,AU,29/5/2015,scattered clouds,36,12.43,5.57
+Hamilton,AU,30/5/2015,moderate rain,81,11.74,7.96
+Hamilton,AU,31/5/2015,moderate rain,57,8.92,9.6
+Hastings,AU,27/5/2015,light rain,24,12.55,3.86
+Hastings,AU,28/5/2015,moderate rain,0,15.84,4.9
+Hastings,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Hastings,AU,30/5/2015,light rain,61,11.49,6.57
+Hastings,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Healesville,AU,27/5/2015,light rain,44,11.39,2.86
+Healesville,AU,28/5/2015,moderate rain,0,14.16,3.9
+Healesville,AU,29/5/2015,broken clouds,76,10.63,2.67
+Healesville,AU,30/5/2015,light rain,86,10.29,2.95
+Healesville,AU,31/5/2015,heavy intensity rain,50,7.27,4.44
+Hobart,AU,27/5/2015,sky is clear,0,8.15,5.01
+Hobart,AU,28/5/2015,light rain,32,13.84,7.75
+Hobart,AU,29/5/2015,light rain,56,7.68,5.67
+Hobart,AU,30/5/2015,light rain,61,11.24,7.28
+Hobart,AU,31/5/2015,sky is clear,47,7.62,0.62
+Horsham,AU,27/5/2015,light rain,88,11.44,4.81
+Horsham,AU,28/5/2015,moderate rain,8,14.84,6.45
+Horsham,AU,29/5/2015,light rain,20,12.78,3.62
+Horsham,AU,30/5/2015,light rain,81,10.54,4.84
+Horsham,AU,31/5/2015,light rain,80,8.67,8.01
+Ingham,AU,27/5/2015,light rain,76,16.34,3.36
+Ingham,AU,28/5/2015,light rain,80,25.42,5.8
+Ingham,AU,29/5/2015,light rain,92,22.03,4.12
+Ingham,AU,30/5/2015,light rain,52,21.09,1.49
+Ingham,AU,31/5/2015,light rain,48,22.87,0.76
+Innisfail,AU,27/5/2015,light rain,92,19.89,1.66
+Innisfail,AU,28/5/2015,moderate rain,92,20.77,2.95
+Innisfail,AU,29/5/2015,light rain,92,21.33,2.27
+Innisfail,AU,30/5/2015,light rain,59,22.14,2.04
+Innisfail,AU,31/5/2015,light rain,52,23.62,1.05
+Inverell,AU,28/5/2015,sky is clear,0,13.81,1.87
+Inverell,AU,29/5/2015,light rain,92,12.98,2.67
+Inverell,AU,30/5/2015,light rain,41,13.54,1.92
+Inverell,AU,31/5/2015,moderate rain,83,14.82,5.4
+Inverell,AU,1/6/2015,light rain,2,6.38,4.1
+Karratha,AU,27/5/2015,light rain,64,16.09,2.41
+Karratha,AU,28/5/2015,broken clouds,64,21.76,2.1
+Karratha,AU,29/5/2015,sky is clear,0,23.28,2.87
+Karratha,AU,30/5/2015,sky is clear,0,22.49,2.41
+Karratha,AU,31/5/2015,light rain,13,23.01,4.95
+Katherine,AU,27/5/2015,sky is clear,0,21.29,5.01
+Kempsey,AU,28/5/2015,sky is clear,0,17.21,1.67
+Kempsey,AU,29/5/2015,overcast clouds,88,19.03,2.02
+Kempsey,AU,30/5/2015,light rain,68,17.64,1.32
+Kempsey,AU,31/5/2015,light rain,56,19.67,3.63
+Kempsey,AU,1/6/2015,sky is clear,0,14.83,6.1
+Kiama,AU,28/5/2015,sky is clear,0,18.37,3.17
+Kiama,AU,29/5/2015,light rain,92,17.88,5.27
+Kiama,AU,30/5/2015,light rain,46,16.14,2.32
+Kiama,AU,31/5/2015,light rain,17,16.62,7.18
+Kiama,AU,1/6/2015,light rain,10,14.63,11.23
+Kingaroy,AU,28/5/2015,light rain,92,16.66,2.27
+Kingaroy,AU,29/5/2015,light rain,24,17.73,1.87
+Kingaroy,AU,30/5/2015,moderate rain,68,18.59,1.36
+Kingaroy,AU,31/5/2015,moderate rain,90,18.92,2.76
+Kingaroy,AU,1/6/2015,sky is clear,1,13.63,5.2
+Kirrawee,AU,28/5/2015,few clouds,20,17.01,2.47
+Kirrawee,AU,29/5/2015,light rain,88,17.08,4.87
+Kirrawee,AU,30/5/2015,light rain,64,13.89,1.83
+Kirrawee,AU,31/5/2015,light rain,73,16.67,4.16
+Kirrawee,AU,1/6/2015,sky is clear,0,12.48,7.53
+Kirribilli,AU,28/5/2015,few clouds,20,17.01,2.47
+Kirribilli,AU,29/5/2015,light rain,88,17.08,4.87
+Kirribilli,AU,30/5/2015,light rain,64,13.89,1.83
+Kirribilli,AU,31/5/2015,light rain,73,16.67,4.16
+Kirribilli,AU,1/6/2015,sky is clear,0,12.48,7.53
+Kootingal,AU,28/5/2015,light rain,8,11.04,1.72
+Kootingal,AU,29/5/2015,light rain,92,12.33,2.82
+Kootingal,AU,30/5/2015,light rain,81,11.49,1.67
+Kootingal,AU,31/5/2015,moderate rain,98,14.02,5.39
+Kootingal,AU,1/6/2015,light rain,9,5.23,2.96
+Kununurra,AU,27/5/2015,sky is clear,0,19.99,3.51
+Kurnell,AU,28/5/2015,few clouds,20,17.01,2.47
+Kurnell,AU,29/5/2015,light rain,88,17.08,4.87
+Kurnell,AU,30/5/2015,light rain,64,13.89,1.83
+Kurnell,AU,31/5/2015,light rain,73,16.67,4.16
+Kurnell,AU,1/6/2015,sky is clear,0,12.48,7.53
+Kurri Kurri,AU,28/5/2015,light rain,92,14.06,1.72
+Kurri Kurri,AU,29/5/2015,light rain,92,15.08,2.72
+Kurri Kurri,AU,30/5/2015,light rain,78,12.99,1.37
+Kurri Kurri,AU,31/5/2015,light rain,94,15.72,3.39
+Kurri Kurri,AU,1/6/2015,sky is clear,0,10.73,3.56
+Kwinana,AU,27/5/2015,sky is clear,0,10.54,2.51
+Kwinana,AU,28/5/2015,light rain,0,14.74,5.35
+Kwinana,AU,29/5/2015,sky is clear,0,15.48,5.47
+Kwinana,AU,30/5/2015,sky is clear,0,17.64,2.73
+Kwinana,AU,31/5/2015,sky is clear,0,18.01,1.79
+Kyabram,AU,27/5/2015,light rain,12,8.84,3.31
+Kyabram,AU,28/5/2015,few clouds,24,16.96,5.05
+Kyabram,AU,29/5/2015,sky is clear,0,14.43,4.67
+Kyabram,AU,30/5/2015,light rain,95,9.99,3.54
+Kyabram,AU,31/5/2015,moderate rain,55,9.47,7.09
+Kyogle,AU,28/5/2015,sky is clear,0,16.78,1.32
+Kyogle,AU,29/5/2015,scattered clouds,36,18.33,1.32
+Kyogle,AU,30/5/2015,light rain,45,17.34,1.17
+Kyogle,AU,31/5/2015,light rain,26,19.92,2.22
+Kyogle,AU,1/6/2015,sky is clear,0,16.58,0.77
+Lake Albert,AU,27/5/2015,light rain,88,10.09,1.76
+Lake Albert,AU,28/5/2015,light rain,12,14.93,2.95
+Lake Albert,AU,29/5/2015,light rain,80,12.88,4.07
+Lake Albert,AU,30/5/2015,light rain,94,10.19,2.23
+Lake Albert,AU,31/5/2015,light rain,77,9.22,7.03
+Lake Heights,AU,28/5/2015,few clouds,20,17.01,2.47
+Lake Heights,AU,29/5/2015,light rain,88,17.08,4.87
+Lake Heights,AU,30/5/2015,light rain,64,13.89,1.83
+Lake Heights,AU,31/5/2015,light rain,73,16.67,4.16
+Lake Heights,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lake Illawarra,AU,28/5/2015,sky is clear,0,18.37,3.17
+Lake Illawarra,AU,29/5/2015,light rain,92,17.88,5.27
+Lake Illawarra,AU,30/5/2015,light rain,46,16.14,2.32
+Lake Illawarra,AU,31/5/2015,light rain,17,16.62,7.18
+Lake Illawarra,AU,1/6/2015,light rain,10,14.63,11.23
+Lakemba,AU,28/5/2015,few clouds,20,17.01,2.47
+Lakemba,AU,29/5/2015,light rain,88,17.08,4.87
+Lakemba,AU,30/5/2015,light rain,64,13.89,1.83
+Lakemba,AU,31/5/2015,light rain,73,16.67,4.16
+Lakemba,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lakes Entrance,AU,27/5/2015,sky is clear,0,12.79,3.91
+Lakes Entrance,AU,28/5/2015,scattered clouds,44,17.75,4
+Lakes Entrance,AU,29/5/2015,sky is clear,0,15.63,6.02
+Lakes Entrance,AU,30/5/2015,sky is clear,7,11.04,3.1
+Lakes Entrance,AU,31/5/2015,moderate rain,8,12.87,9.42
+Lambton,AU,28/5/2015,light rain,24,17.26,4.12
+Lambton,AU,29/5/2015,light rain,92,17.08,7.12
+Lambton,AU,30/5/2015,moderate rain,58,16.89,1.76
+Lambton,AU,31/5/2015,light rain,94,18.17,6.76
+Lambton,AU,1/6/2015,light rain,0,13.53,9.67
+Lane Cove,AU,28/5/2015,few clouds,20,17.01,2.47
+Lane Cove,AU,29/5/2015,light rain,88,17.08,4.87
+Lane Cove,AU,30/5/2015,light rain,64,13.89,1.83
+Lane Cove,AU,31/5/2015,light rain,73,16.67,4.16
+Lane Cove,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lara,AU,27/5/2015,few clouds,20,11.05,7.16
+Lara,AU,28/5/2015,moderate rain,0,15.49,11.25
+Lara,AU,29/5/2015,scattered clouds,32,12.13,7.07
+Lara,AU,30/5/2015,light rain,72,11.04,5.92
+Lara,AU,31/5/2015,moderate rain,93,8.07,7.96
+Larrakeyah,AU,27/5/2015,few clouds,12,27.69,7.16
+Latrobe,AU,27/5/2015,light rain,68,13.9,7.61
+Latrobe,AU,28/5/2015,heavy intensity rain,92,13.34,12.2
+Latrobe,AU,29/5/2015,scattered clouds,44,13.18,11.87
+Latrobe,AU,30/5/2015,heavy intensity rain,40,11.89,8.24
+Latrobe,AU,31/5/2015,moderate rain,77,8.77,6.63
+Lauderdale,AU,27/5/2015,sky is clear,0,8.15,5.01
+Lauderdale,AU,28/5/2015,light rain,32,13.84,7.75
+Lauderdale,AU,29/5/2015,light rain,56,7.68,5.67
+Lauderdale,AU,30/5/2015,light rain,61,11.24,7.28
+Lauderdale,AU,31/5/2015,sky is clear,47,7.62,0.62
+Launceston,AU,27/5/2015,light rain,92,13.9,9.31
+Launceston,AU,28/5/2015,heavy intensity rain,92,14.24,15.2
+Launceston,AU,29/5/2015,light rain,24,13.18,13.67
+Launceston,AU,30/5/2015,moderate rain,32,12.34,9.26
+Launceston,AU,31/5/2015,moderate rain,28,10.17,7.16
+Laverton,AU,27/5/2015,light rain,24,12.55,3.86
+Laverton,AU,28/5/2015,moderate rain,0,15.84,4.9
+Laverton,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Laverton,AU,30/5/2015,light rain,61,11.49,6.57
+Laverton,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Lavington,AU,27/5/2015,light rain,92,11.19,2.11
+Lavington,AU,28/5/2015,heavy intensity rain,92,12.31,3.45
+Lavington,AU,29/5/2015,light rain,88,11.63,3.42
+Lavington,AU,30/5/2015,light rain,89,8.39,1.55
+Lavington,AU,31/5/2015,moderate rain,90,7.67,4.61
+Lawson,AU,28/5/2015,light rain,56,11.25,1.17
+Lawson,AU,29/5/2015,light rain,88,12.63,2.37
+Lawson,AU,30/5/2015,light rain,82,8.49,0.95
+Lawson,AU,31/5/2015,light rain,83,11.62,3.34
+Lawson,AU,1/6/2015,light rain,9,6.88,4.45
+Leanyer,AU,27/5/2015,few clouds,12,27.69,7.16
+Leeton,AU,27/5/2015,sky is clear,8,8.09,2.21
+Leeton,AU,28/5/2015,moderate rain,12,15.71,4.35
+Leeton,AU,29/5/2015,light rain,48,13.73,3.47
+Leeton,AU,30/5/2015,light rain,97,10.49,3.33
+Leeton,AU,31/5/2015,light rain,83,9.27,7.05
+Leichhardt,AU,28/5/2015,few clouds,20,17.01,2.47
+Leichhardt,AU,29/5/2015,light rain,88,17.08,4.87
+Leichhardt,AU,30/5/2015,light rain,64,13.89,1.83
+Leichhardt,AU,31/5/2015,light rain,73,16.67,4.16
+Leichhardt,AU,1/6/2015,sky is clear,0,12.48,7.53
+Leopold,AU,27/5/2015,few clouds,20,11.04,7.16
+Leopold,AU,28/5/2015,moderate rain,0,15.48,11.25
+Leopold,AU,29/5/2015,scattered clouds,32,12.13,7.07
+Leopold,AU,30/5/2015,light rain,72,11.04,5.92
+Leopold,AU,31/5/2015,moderate rain,93,8.07,7.96
+Leumeah,AU,28/5/2015,few clouds,20,16.89,2.47
+Leumeah,AU,29/5/2015,light rain,88,17.08,4.87
+Leumeah,AU,30/5/2015,light rain,64,13.89,1.83
+Leumeah,AU,31/5/2015,light rain,73,16.67,4.16
+Leumeah,AU,1/6/2015,sky is clear,0,12.48,7.53
+Leura,AU,28/5/2015,light rain,56,11.25,1.17
+Leura,AU,29/5/2015,light rain,88,12.63,2.37
+Leura,AU,30/5/2015,light rain,82,8.49,0.95
+Leura,AU,31/5/2015,light rain,83,11.62,3.34
+Leura,AU,1/6/2015,light rain,9,6.88,4.45
+Lewiston,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Lewiston,AU,28/5/2015,light rain,32,17.34,5.95
+Lewiston,AU,29/5/2015,sky is clear,8,14.83,3.22
+Lewiston,AU,30/5/2015,light rain,86,11.44,2.85
+Lewiston,AU,31/5/2015,light rain,56,12.22,6.73
+Lidcombe,AU,28/5/2015,few clouds,20,16.89,2.47
+Lidcombe,AU,29/5/2015,light rain,88,17.08,4.87
+Lidcombe,AU,30/5/2015,light rain,64,13.89,1.83
+Lidcombe,AU,31/5/2015,light rain,73,16.67,4.16
+Lidcombe,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lightning Ridge,AU,27/5/2015,broken clouds,64,11.19,2.11
+Lightning Ridge,AU,28/5/2015,few clouds,20,20.74,3.5
+Lightning Ridge,AU,29/5/2015,overcast clouds,88,20.73,3.87
+Lightning Ridge,AU,30/5/2015,light rain,81,17.74,2.75
+Lightning Ridge,AU,31/5/2015,moderate rain,88,15.82,3.54
+Lilyfield,AU,28/5/2015,few clouds,20,17.01,2.47
+Lilyfield,AU,29/5/2015,light rain,88,17.08,4.87
+Lilyfield,AU,30/5/2015,light rain,64,13.89,1.83
+Lilyfield,AU,31/5/2015,light rain,73,16.67,4.16
+Lilyfield,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lindfield,AU,28/5/2015,few clouds,20,16.89,2.47
+Lindfield,AU,29/5/2015,light rain,88,17.08,4.87
+Lindfield,AU,30/5/2015,light rain,64,13.89,1.83
+Lindfield,AU,31/5/2015,light rain,73,16.67,4.16
+Lindfield,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lindisfarne,AU,27/5/2015,sky is clear,0,9.44,5.01
+Lindisfarne,AU,28/5/2015,light rain,32,14.35,7.75
+Lindisfarne,AU,29/5/2015,light rain,56,7.68,5.67
+Lindisfarne,AU,30/5/2015,light rain,61,11.24,7.28
+Lindisfarne,AU,31/5/2015,sky is clear,47,7.62,0.62
+Lismore,AU,28/5/2015,sky is clear,0,17.11,1.32
+Lismore,AU,29/5/2015,scattered clouds,36,18.33,1.32
+Lismore,AU,30/5/2015,light rain,45,17.34,1.17
+Lismore,AU,31/5/2015,light rain,26,19.92,2.22
+Lismore,AU,1/6/2015,sky is clear,0,16.58,0.77
+Lithgow,AU,28/5/2015,moderate rain,68,11.76,1.37
+Lithgow,AU,29/5/2015,moderate rain,92,12.43,3.12
+Lithgow,AU,30/5/2015,moderate rain,93,9.79,1.12
+Lithgow,AU,31/5/2015,moderate rain,96,12.22,3.03
+Lithgow,AU,1/6/2015,light rain,14,6.83,3.66
+Liverpool,AU,28/5/2015,few clouds,20,16.89,2.47
+Liverpool,AU,29/5/2015,light rain,88,17.08,4.87
+Liverpool,AU,30/5/2015,light rain,64,13.89,1.83
+Liverpool,AU,31/5/2015,light rain,73,16.67,4.16
+Liverpool,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lobethal,AU,27/5/2015,scattered clouds,32,11.09,2.96
+Lobethal,AU,28/5/2015,light rain,32,17.71,5.95
+Lobethal,AU,29/5/2015,sky is clear,8,14.83,3.22
+Lobethal,AU,30/5/2015,light rain,86,11.44,2.85
+Lobethal,AU,31/5/2015,light rain,56,12.22,6.73
+Loftus,AU,28/5/2015,few clouds,20,17.01,2.47
+Loftus,AU,29/5/2015,light rain,88,17.08,4.87
+Loftus,AU,30/5/2015,light rain,64,13.89,1.83
+Loftus,AU,31/5/2015,light rain,73,16.67,4.16
+Loftus,AU,1/6/2015,sky is clear,0,12.48,7.53
+Long Jetty,AU,28/5/2015,light rain,92,14.06,1.72
+Long Jetty,AU,29/5/2015,light rain,92,15.08,2.72
+Long Jetty,AU,30/5/2015,light rain,78,12.99,1.37
+Long Jetty,AU,31/5/2015,light rain,94,15.72,3.39
+Long Jetty,AU,1/6/2015,sky is clear,0,10.73,3.56
+Longford,AU,27/5/2015,sky is clear,0,8.44,4.96
+Longford,AU,28/5/2015,light rain,12,11.05,5.8
+Longford,AU,29/5/2015,light rain,88,5.63,4.02
+Longford,AU,30/5/2015,light rain,78,8.89,4.55
+Longford,AU,31/5/2015,sky is clear,46,6.32,1.38
+Longueville,AU,28/5/2015,few clouds,20,16.89,2.47
+Longueville,AU,29/5/2015,light rain,88,17.08,4.87
+Longueville,AU,30/5/2015,light rain,64,13.89,1.83
+Longueville,AU,31/5/2015,light rain,73,16.67,4.16
+Longueville,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lugarno,AU,28/5/2015,few clouds,20,17.01,2.47
+Lugarno,AU,29/5/2015,light rain,88,17.08,4.87
+Lugarno,AU,30/5/2015,light rain,64,13.89,1.83
+Lugarno,AU,31/5/2015,light rain,73,16.67,4.16
+Lugarno,AU,1/6/2015,sky is clear,0,12.48,7.53
+Lutana,AU,27/5/2015,sky is clear,0,8.15,5.01
+Lutana,AU,28/5/2015,light rain,32,13.84,7.75
+Lutana,AU,29/5/2015,light rain,56,7.68,5.67
+Lutana,AU,30/5/2015,light rain,61,11.24,7.28
+Lutana,AU,31/5/2015,sky is clear,47,7.62,0.62
+Mackay,AU,27/5/2015,broken clouds,80,19.39,2.36
+Mackay,AU,28/5/2015,light rain,24,23.95,2.75
+Mackay,AU,29/5/2015,moderate rain,80,23.43,2.77
+Mackay,AU,30/5/2015,light rain,69,22.24,2.51
+Mackay,AU,31/5/2015,moderate rain,44,23.57,1.45
+Macksville,AU,28/5/2015,sky is clear,0,17.21,1.67
+Macksville,AU,29/5/2015,overcast clouds,88,19.03,2.02
+Macksville,AU,30/5/2015,light rain,68,17.64,1.32
+Macksville,AU,31/5/2015,light rain,56,19.67,3.63
+Macksville,AU,1/6/2015,sky is clear,0,14.83,6.1
+Maclean,AU,28/5/2015,sky is clear,0,16.78,1.32
+Maclean,AU,29/5/2015,scattered clouds,36,18.33,1.32
+Maclean,AU,30/5/2015,light rain,45,17.34,1.17
+Maclean,AU,31/5/2015,light rain,26,19.92,2.22
+Maclean,AU,1/6/2015,sky is clear,0,16.58,0.77
+Maddington,AU,27/5/2015,sky is clear,0,10.54,2.51
+Maddington,AU,28/5/2015,light rain,0,14.74,5.35
+Maddington,AU,29/5/2015,sky is clear,0,15.48,5.47
+Maddington,AU,30/5/2015,sky is clear,0,17.64,2.73
+Maddington,AU,31/5/2015,sky is clear,0,18.01,1.79
+Malabar,AU,28/5/2015,few clouds,20,17.01,2.47
+Malabar,AU,29/5/2015,light rain,88,17.08,4.87
+Malabar,AU,30/5/2015,light rain,64,13.89,1.83
+Malabar,AU,31/5/2015,light rain,73,16.67,4.16
+Malabar,AU,1/6/2015,sky is clear,0,12.48,7.53
+Malvern East,AU,27/5/2015,light rain,24,12.55,3.86
+Malvern East,AU,28/5/2015,moderate rain,0,15.84,4.9
+Malvern East,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Malvern East,AU,30/5/2015,light rain,61,11.49,6.57
+Malvern East,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Mandurah,AU,27/5/2015,light rain,48,10.99,3.91
+Mandurah,AU,28/5/2015,sky is clear,0,14.39,4.95
+Mandurah,AU,29/5/2015,sky is clear,0,14.93,3.57
+Mandurah,AU,30/5/2015,light rain,2,17.19,2.93
+Mandurah,AU,31/5/2015,sky is clear,0,17.11,1.81
+Mangerton,AU,28/5/2015,few clouds,20,17.01,2.47
+Mangerton,AU,29/5/2015,light rain,88,17.08,4.87
+Mangerton,AU,30/5/2015,light rain,64,13.89,1.83
+Mangerton,AU,31/5/2015,light rain,73,16.67,4.16
+Mangerton,AU,1/6/2015,sky is clear,0,12.48,7.53
+Manilla,AU,28/5/2015,light rain,8,11.04,1.72
+Manilla,AU,29/5/2015,light rain,92,12.33,2.82
+Manilla,AU,30/5/2015,light rain,81,11.49,1.67
+Manilla,AU,31/5/2015,moderate rain,98,14.02,5.39
+Manilla,AU,1/6/2015,light rain,9,5.23,2.96
+Manjimup,AU,27/5/2015,broken clouds,80,9.94,2.81
+Manjimup,AU,28/5/2015,light rain,64,13.54,2
+Manjimup,AU,29/5/2015,sky is clear,8,14.13,2.02
+Manjimup,AU,30/5/2015,light rain,32,16.54,3.4
+Manjimup,AU,31/5/2015,sky is clear,0,17.01,2.09
+Manly,AU,28/5/2015,few clouds,20,16.89,2.47
+Manly,AU,29/5/2015,light rain,88,17.08,4.87
+Manly,AU,30/5/2015,light rain,64,13.89,1.83
+Manly,AU,31/5/2015,light rain,73,16.67,4.16
+Manly,AU,1/6/2015,sky is clear,0,12.48,7.53
+Manning,AU,27/5/2015,sky is clear,0,10.54,2.51
+Manning,AU,28/5/2015,light rain,0,14.74,5.35
+Manning,AU,29/5/2015,sky is clear,0,15.48,5.47
+Manning,AU,30/5/2015,sky is clear,0,17.64,2.73
+Manning,AU,31/5/2015,sky is clear,0,18.01,1.79
+Mannum,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Mannum,AU,28/5/2015,light rain,32,17.34,5.95
+Mannum,AU,29/5/2015,sky is clear,8,14.83,3.22
+Mannum,AU,30/5/2015,light rain,86,11.44,2.85
+Mannum,AU,31/5/2015,light rain,56,12.22,6.73
+Mansfield,AU,27/5/2015,light rain,92,11.05,2.46
+Mansfield,AU,28/5/2015,moderate rain,64,11.84,3.1
+Mansfield,AU,29/5/2015,light rain,44,11.23,2.47
+Mansfield,AU,30/5/2015,light rain,87,8.89,2.09
+Mansfield,AU,31/5/2015,moderate rain,55,6.77,5.25
+Mareeba,AU,27/5/2015,light rain,12,19.14,4.31
+Mareeba,AU,28/5/2015,light rain,92,24.91,6.8
+Mareeba,AU,29/5/2015,light rain,92,22.73,5.67
+Mareeba,AU,30/5/2015,light rain,8,21.84,1.87
+Mareeba,AU,31/5/2015,light rain,32,24.02,1.4
+Margaret River,AU,27/5/2015,overcast clouds,88,14.19,5.26
+Margaret River,AU,28/5/2015,broken clouds,80,15.25,4.15
+Margaret River,AU,29/5/2015,few clouds,20,14.53,2.47
+Margaret River,AU,30/5/2015,light rain,3,17.09,3.16
+Margaret River,AU,31/5/2015,sky is clear,0,17.31,1.91
+Margate,AU,27/5/2015,sky is clear,0,9.44,5.01
+Margate,AU,28/5/2015,light rain,32,14.35,7.75
+Margate,AU,29/5/2015,light rain,56,7.68,5.67
+Margate,AU,30/5/2015,light rain,61,11.24,7.28
+Margate,AU,31/5/2015,sky is clear,47,7.62,0.62
+Marino,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Marino,AU,28/5/2015,light rain,32,17.34,5.95
+Marino,AU,29/5/2015,sky is clear,8,14.83,3.22
+Marino,AU,30/5/2015,light rain,86,11.44,2.85
+Marino,AU,31/5/2015,light rain,56,12.22,6.73
+Marion,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Marion,AU,28/5/2015,light rain,32,17.34,5.95
+Marion,AU,29/5/2015,sky is clear,8,14.83,3.22
+Marion,AU,30/5/2015,light rain,86,11.44,2.85
+Marion,AU,31/5/2015,light rain,56,12.22,6.73
+Maroubra,AU,28/5/2015,few clouds,20,16.89,2.47
+Maroubra,AU,29/5/2015,light rain,88,17.08,4.87
+Maroubra,AU,30/5/2015,light rain,64,13.89,1.83
+Maroubra,AU,31/5/2015,light rain,73,16.67,4.16
+Maroubra,AU,1/6/2015,sky is clear,0,12.48,7.53
+Marrickville,AU,28/5/2015,few clouds,20,17.01,2.47
+Marrickville,AU,29/5/2015,light rain,88,17.08,4.87
+Marrickville,AU,30/5/2015,light rain,64,13.89,1.83
+Marrickville,AU,31/5/2015,light rain,73,16.67,4.16
+Marrickville,AU,1/6/2015,sky is clear,0,12.48,7.53
+Maryborough,AU,27/5/2015,light rain,32,8.79,2.81
+Maryborough,AU,28/5/2015,moderate rain,68,11.98,4.75
+Maryborough,AU,29/5/2015,light rain,44,11.28,3.67
+Maryborough,AU,30/5/2015,light rain,89,9.79,3.75
+Maryborough,AU,31/5/2015,light rain,90,8.12,7.81
+Mascot,AU,28/5/2015,few clouds,20,17.01,2.47
+Mascot,AU,29/5/2015,light rain,88,17.08,4.87
+Mascot,AU,30/5/2015,light rain,64,13.89,1.83
+Mascot,AU,31/5/2015,light rain,73,16.67,4.16
+Mascot,AU,1/6/2015,sky is clear,0,12.48,7.53
+Matraville,AU,28/5/2015,few clouds,20,16.89,2.47
+Matraville,AU,29/5/2015,light rain,88,17.08,4.87
+Matraville,AU,30/5/2015,light rain,64,13.89,1.83
+Matraville,AU,31/5/2015,light rain,73,16.67,4.16
+Matraville,AU,1/6/2015,sky is clear,0,12.48,7.53
+Maylands,AU,27/5/2015,sky is clear,0,10.54,2.51
+Maylands,AU,28/5/2015,light rain,0,14.74,5.35
+Maylands,AU,29/5/2015,sky is clear,0,15.48,5.47
+Maylands,AU,30/5/2015,sky is clear,0,17.64,2.73
+Maylands,AU,31/5/2015,sky is clear,0,18.01,1.79
+McLaren Vale,AU,27/5/2015,scattered clouds,32,11.09,2.96
+McLaren Vale,AU,28/5/2015,light rain,32,17.71,5.95
+McLaren Vale,AU,29/5/2015,sky is clear,8,14.83,3.22
+McLaren Vale,AU,30/5/2015,light rain,86,11.44,2.85
+McLaren Vale,AU,31/5/2015,light rain,56,12.22,6.73
+McMinns Lagoon,AU,27/5/2015,few clouds,12,22.19,1.86
+Medina,AU,27/5/2015,sky is clear,0,10.54,2.51
+Medina,AU,28/5/2015,light rain,0,14.74,5.35
+Medina,AU,29/5/2015,sky is clear,0,15.48,5.47
+Medina,AU,30/5/2015,sky is clear,0,17.64,2.73
+Medina,AU,31/5/2015,sky is clear,0,18.01,1.79
+Medowie,AU,28/5/2015,light rain,24,17.44,4.12
+Medowie,AU,29/5/2015,light rain,92,17.08,7.12
+Medowie,AU,30/5/2015,moderate rain,58,16.89,1.76
+Medowie,AU,31/5/2015,light rain,94,18.17,6.76
+Medowie,AU,1/6/2015,light rain,0,13.53,9.67
+Melbourne,AU,27/5/2015,light rain,24,12.55,3.86
+Melbourne,AU,28/5/2015,moderate rain,0,15.84,4.9
+Melbourne,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Melbourne,AU,30/5/2015,light rain,61,11.49,6.57
+Melbourne,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Melton,AU,27/5/2015,light rain,24,12.55,3.86
+Melton,AU,28/5/2015,moderate rain,0,15.84,4.9
+Melton,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Melton,AU,30/5/2015,light rain,61,11.49,6.57
+Melton,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Melville,AU,27/5/2015,scattered clouds,48,11.29,4.46
+Melville,AU,28/5/2015,sky is clear,0,16.07,5.5
+Melville,AU,29/5/2015,few clouds,20,16.38,5.12
+Melville,AU,30/5/2015,sky is clear,0,16.84,6.41
+Melville,AU,31/5/2015,sky is clear,0,17.71,5.03
+Menai,AU,28/5/2015,few clouds,20,17.01,2.47
+Menai,AU,29/5/2015,light rain,88,17.08,4.87
+Menai,AU,30/5/2015,light rain,64,13.89,1.83
+Menai,AU,31/5/2015,light rain,73,16.67,4.16
+Menai,AU,1/6/2015,sky is clear,0,12.48,7.53
+Merimbula,AU,28/5/2015,scattered clouds,32,14.28,2.42
+Merimbula,AU,29/5/2015,sky is clear,0,15.73,3.87
+Merimbula,AU,30/5/2015,light rain,3,13.59,2.98
+Merimbula,AU,31/5/2015,light rain,0,13.47,5.19
+Merimbula,AU,1/6/2015,light rain,75,12.38,12.01
+Merrylands,AU,28/5/2015,few clouds,20,17.01,2.47
+Merrylands,AU,29/5/2015,light rain,88,17.08,4.87
+Merrylands,AU,30/5/2015,light rain,64,13.89,1.83
+Merrylands,AU,31/5/2015,light rain,73,16.67,4.16
+Merrylands,AU,1/6/2015,sky is clear,0,12.48,7.53
+Middle Swan,AU,27/5/2015,sky is clear,0,10.54,2.51
+Middle Swan,AU,28/5/2015,light rain,0,14.74,5.35
+Middle Swan,AU,29/5/2015,sky is clear,0,15.48,5.47
+Middle Swan,AU,30/5/2015,sky is clear,0,17.64,2.73
+Middle Swan,AU,31/5/2015,sky is clear,0,18.01,1.79
+Mildura,AU,27/5/2015,few clouds,12,9.49,1.86
+Mildura,AU,28/5/2015,light rain,36,18.57,4.75
+Mildura,AU,29/5/2015,broken clouds,56,14.73,2.67
+Mildura,AU,30/5/2015,light rain,97,10.24,1.89
+Mildura,AU,31/5/2015,light rain,28,10.92,6.41
+Millicent,AU,27/5/2015,light rain,92,15.79,12.66
+Millicent,AU,28/5/2015,moderate rain,92,14.24,10.75
+Millicent,AU,29/5/2015,scattered clouds,36,14.98,8.97
+Millicent,AU,30/5/2015,moderate rain,32,14.64,10.27
+Millicent,AU,31/5/2015,moderate rain,98,13.02,14.31
+Mindarie,AU,27/5/2015,sky is clear,0,10.54,2.51
+Mindarie,AU,28/5/2015,light rain,0,14.74,5.35
+Mindarie,AU,29/5/2015,sky is clear,0,15.48,5.47
+Mindarie,AU,30/5/2015,sky is clear,0,17.64,2.73
+Mindarie,AU,31/5/2015,sky is clear,0,18.01,1.79
+Miranda,AU,28/5/2015,few clouds,20,17.01,2.47
+Miranda,AU,29/5/2015,light rain,88,17.08,4.87
+Miranda,AU,30/5/2015,light rain,64,13.89,1.83
+Miranda,AU,31/5/2015,light rain,73,16.67,4.16
+Miranda,AU,1/6/2015,sky is clear,0,12.48,7.53
+Mittagong,AU,28/5/2015,light rain,56,11.25,1.17
+Mittagong,AU,29/5/2015,light rain,88,12.63,2.37
+Mittagong,AU,30/5/2015,light rain,82,8.49,0.95
+Mittagong,AU,31/5/2015,light rain,83,11.62,3.34
+Mittagong,AU,1/6/2015,light rain,9,6.88,4.45
+Moama,AU,27/5/2015,light rain,12,7.9,3.31
+Moama,AU,28/5/2015,few clouds,24,16.59,5.05
+Moama,AU,29/5/2015,sky is clear,0,14.43,4.67
+Moama,AU,30/5/2015,light rain,95,9.99,3.54
+Moama,AU,31/5/2015,moderate rain,55,9.47,7.09
+Moana,AU,27/5/2015,scattered clouds,44,14.79,6.36
+Moana,AU,28/5/2015,light rain,56,16.78,8.15
+Moana,AU,29/5/2015,broken clouds,56,15.63,3.82
+Moana,AU,30/5/2015,light rain,61,13.19,4.83
+Moana,AU,31/5/2015,moderate rain,39,13.77,8.97
+Modbury,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Modbury,AU,28/5/2015,light rain,32,17.34,5.95
+Modbury,AU,29/5/2015,sky is clear,8,14.83,3.22
+Modbury,AU,30/5/2015,light rain,86,11.44,2.85
+Modbury,AU,31/5/2015,light rain,56,12.22,6.73
+Moe,AU,27/5/2015,light rain,44,11.39,2.86
+Moe,AU,28/5/2015,moderate rain,0,14.16,3.9
+Moe,AU,29/5/2015,broken clouds,76,10.63,2.67
+Moe,AU,30/5/2015,light rain,86,10.29,2.95
+Moe,AU,31/5/2015,heavy intensity rain,50,7.27,4.44
+Moggill,AU,28/5/2015,sky is clear,0,17.01,1.32
+Moggill,AU,29/5/2015,light rain,36,17.73,1.12
+Moggill,AU,30/5/2015,light rain,60,17.49,1.44
+Moggill,AU,31/5/2015,light rain,73,19.62,1.79
+Moggill,AU,1/6/2015,sky is clear,0,16.23,2.84
+Molong,AU,27/5/2015,light rain,92,10.25,1.41
+Molong,AU,28/5/2015,moderate rain,92,13.69,3.55
+Molong,AU,29/5/2015,moderate rain,92,12.18,3.47
+Molong,AU,30/5/2015,moderate rain,83,9.74,1.65
+Molong,AU,31/5/2015,moderate rain,99,11.02,5.07
+Monterey,AU,28/5/2015,few clouds,20,16.89,2.47
+Monterey,AU,29/5/2015,light rain,88,17.08,4.87
+Monterey,AU,30/5/2015,light rain,64,13.89,1.83
+Monterey,AU,31/5/2015,light rain,73,16.67,4.16
+Monterey,AU,1/6/2015,sky is clear,0,12.48,7.53
+Montrose,AU,27/5/2015,light rain,24,12.14,3.86
+Montrose,AU,28/5/2015,moderate rain,0,15.67,4.9
+Montrose,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Montrose,AU,30/5/2015,light rain,61,11.49,6.57
+Montrose,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Mooloolaba,AU,28/5/2015,light rain,36,18.5,1.67
+Mooloolaba,AU,29/5/2015,light rain,8,18.83,1.42
+Mooloolaba,AU,30/5/2015,light rain,45,20.44,2.02
+Mooloolaba,AU,31/5/2015,light rain,71,20.17,1.82
+Mooloolaba,AU,1/6/2015,sky is clear,0,17.13,4.1
+Moonah,AU,27/5/2015,sky is clear,0,8.15,5.01
+Moonah,AU,28/5/2015,light rain,32,13.84,7.75
+Moonah,AU,29/5/2015,light rain,56,7.68,5.67
+Moonah,AU,30/5/2015,light rain,61,11.24,7.28
+Moonah,AU,31/5/2015,sky is clear,47,7.62,0.62
+Moonee Beach,AU,28/5/2015,sky is clear,0,16.8,1.52
+Moonee Beach,AU,29/5/2015,sky is clear,8,17.38,1.77
+Moonee Beach,AU,30/5/2015,light rain,33,17.74,1.62
+Moonee Beach,AU,31/5/2015,light rain,10,19.42,2.95
+Moonee Beach,AU,1/6/2015,sky is clear,0,15.93,2.65
+Moranbah,AU,27/5/2015,sky is clear,0,14.04,3.41
+Moranbah,AU,28/5/2015,sky is clear,8,24.75,5.9
+Moranbah,AU,29/5/2015,sky is clear,0,27.23,4.92
+Moranbah,AU,30/5/2015,light rain,68,20.74,1.98
+Moranbah,AU,31/5/2015,heavy intensity rain,88,22.27,1.83
+Morayfield,AU,28/5/2015,light rain,36,18.5,1.67
+Morayfield,AU,29/5/2015,light rain,8,18.83,1.42
+Morayfield,AU,30/5/2015,light rain,45,20.44,2.02
+Morayfield,AU,31/5/2015,light rain,71,20.17,1.82
+Morayfield,AU,1/6/2015,sky is clear,0,17.13,4.1
+Mordialloc,AU,27/5/2015,light rain,24,12.55,3.86
+Mordialloc,AU,28/5/2015,moderate rain,0,15.84,4.9
+Mordialloc,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Mordialloc,AU,30/5/2015,light rain,61,11.49,6.57
+Mordialloc,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Moree,AU,28/5/2015,sky is clear,0,16.6,2.52
+Moree,AU,29/5/2015,broken clouds,64,16.98,2.87
+Moree,AU,30/5/2015,light rain,78,16.54,2.11
+Moree,AU,31/5/2015,moderate rain,67,17.17,3.64
+Moree,AU,1/6/2015,light rain,23,9.03,5
+Mornington,AU,27/5/2015,light rain,24,12.14,3.86
+Mornington,AU,28/5/2015,moderate rain,0,15.67,4.9
+Mornington,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Mornington,AU,30/5/2015,light rain,61,11.49,6.57
+Mornington,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Morphett Vale,AU,27/5/2015,scattered clouds,32,11.09,2.96
+Morphett Vale,AU,28/5/2015,light rain,32,17.71,5.95
+Morphett Vale,AU,29/5/2015,sky is clear,8,14.83,3.22
+Morphett Vale,AU,30/5/2015,light rain,86,11.44,2.85
+Morphett Vale,AU,31/5/2015,light rain,56,12.22,6.73
+Mortdale,AU,28/5/2015,few clouds,20,17.01,2.47
+Mortdale,AU,29/5/2015,light rain,88,17.08,4.87
+Mortdale,AU,30/5/2015,light rain,64,13.89,1.83
+Mortdale,AU,31/5/2015,light rain,73,16.67,4.16
+Mortdale,AU,1/6/2015,sky is clear,0,12.48,7.53
+Morwell,AU,27/5/2015,light rain,44,11.2,2.86
+Morwell,AU,28/5/2015,moderate rain,0,14.09,3.9
+Morwell,AU,29/5/2015,broken clouds,76,10.63,2.67
+Morwell,AU,30/5/2015,light rain,86,10.29,2.95
+Morwell,AU,31/5/2015,heavy intensity rain,50,7.27,4.44
+Mosman,AU,28/5/2015,few clouds,20,17.01,2.47
+Mosman,AU,29/5/2015,light rain,88,17.08,4.87
+Mosman,AU,30/5/2015,light rain,64,13.89,1.83
+Mosman,AU,31/5/2015,light rain,73,16.67,4.16
+Mosman,AU,1/6/2015,sky is clear,0,12.48,7.53
+Mosman Park,AU,27/5/2015,sky is clear,0,10.54,2.51
+Mosman Park,AU,28/5/2015,light rain,0,14.74,5.35
+Mosman Park,AU,29/5/2015,sky is clear,0,15.48,5.47
+Mosman Park,AU,30/5/2015,sky is clear,0,17.64,2.73
+Mosman Park,AU,31/5/2015,sky is clear,0,18.01,1.79
+Moss Vale,AU,28/5/2015,light rain,24,12.56,1.52
+Moss Vale,AU,29/5/2015,light rain,80,13.58,3.87
+Moss Vale,AU,30/5/2015,light rain,61,8.99,1.39
+Moss Vale,AU,31/5/2015,light rain,30,11.12,4.93
+Moss Vale,AU,1/6/2015,light rain,4,8.83,5.53
+Mount Barker,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Mount Barker,AU,28/5/2015,light rain,32,17.34,5.95
+Mount Barker,AU,29/5/2015,sky is clear,8,14.83,3.22
+Mount Barker,AU,30/5/2015,light rain,86,11.44,2.85
+Mount Barker,AU,31/5/2015,light rain,56,12.22,6.73
+Mount Colah,AU,28/5/2015,few clouds,20,17.01,2.47
+Mount Colah,AU,29/5/2015,light rain,88,17.08,4.87
+Mount Colah,AU,30/5/2015,light rain,64,13.89,1.83
+Mount Colah,AU,31/5/2015,light rain,73,16.67,4.16
+Mount Colah,AU,1/6/2015,sky is clear,0,12.48,7.53
+Mount Druitt,AU,28/5/2015,few clouds,20,16.89,2.47
+Mount Druitt,AU,29/5/2015,light rain,88,17.08,4.87
+Mount Druitt,AU,30/5/2015,light rain,64,13.89,1.83
+Mount Druitt,AU,31/5/2015,light rain,73,16.67,4.16
+Mount Druitt,AU,1/6/2015,sky is clear,0,12.48,7.53
+Mount Gambier,AU,27/5/2015,light rain,92,13.09,3.46
+Mount Gambier,AU,28/5/2015,moderate rain,92,12.72,3.65
+Mount Gambier,AU,29/5/2015,light rain,80,13.68,2.52
+Mount Gambier,AU,30/5/2015,moderate rain,70,13.14,6.69
+Mount Gambier,AU,31/5/2015,moderate rain,51,10.52,9.04
+Mount Helena,AU,27/5/2015,sky is clear,0,10.54,2.51
+Mount Helena,AU,28/5/2015,light rain,0,14.74,5.35
+Mount Helena,AU,29/5/2015,sky is clear,0,15.48,5.47
+Mount Helena,AU,30/5/2015,sky is clear,0,17.64,2.73
+Mount Helena,AU,31/5/2015,sky is clear,0,18.01,1.79
+Mount Isa,AU,27/5/2015,sky is clear,0,14.89,3.66
+Mount Isa,AU,30/5/2015,moderate rain,92,22.19,2.9
+Mount Isa,AU,31/5/2015,heavy intensity rain,87,19.02,0.74
+Mudgee,AU,28/5/2015,moderate rain,68,11.76,1.37
+Mudgee,AU,29/5/2015,moderate rain,92,12.43,3.12
+Mudgee,AU,30/5/2015,moderate rain,93,9.79,1.12
+Mudgee,AU,31/5/2015,moderate rain,96,12.22,3.03
+Mudgee,AU,1/6/2015,light rain,14,6.83,3.66
+Mulgoa,AU,28/5/2015,few clouds,20,17.01,2.47
+Mulgoa,AU,29/5/2015,light rain,88,17.08,4.87
+Mulgoa,AU,30/5/2015,light rain,64,13.89,1.83
+Mulgoa,AU,31/5/2015,light rain,73,16.67,4.16
+Mulgoa,AU,1/6/2015,sky is clear,0,12.48,7.53
+Mulgrave,AU,27/5/2015,light rain,24,12.55,3.86
+Mulgrave,AU,28/5/2015,moderate rain,0,15.84,4.9
+Mulgrave,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Mulgrave,AU,30/5/2015,light rain,61,11.49,6.57
+Mulgrave,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Mulwala,AU,27/5/2015,light rain,76,9.75,3.01
+Mulwala,AU,28/5/2015,light rain,68,15.09,4.7
+Mulwala,AU,29/5/2015,sky is clear,8,13.83,4.77
+Mulwala,AU,30/5/2015,light rain,94,9.89,2.97
+Mulwala,AU,31/5/2015,moderate rain,73,8.87,6.07
+Murray Bridge,AU,27/5/2015,scattered clouds,32,10.15,2.96
+Murray Bridge,AU,28/5/2015,light rain,32,17.34,5.95
+Murray Bridge,AU,29/5/2015,sky is clear,8,14.83,3.22
+Murray Bridge,AU,30/5/2015,light rain,86,11.44,2.85
+Murray Bridge,AU,31/5/2015,light rain,56,12.22,6.73
+Murrumbateman,AU,27/5/2015,light rain,92,8.54,1.36
+Murrumbateman,AU,28/5/2015,light rain,76,12.07,2.55
+Murrumbateman,AU,29/5/2015,moderate rain,88,11.53,6.37
+Murrumbateman,AU,30/5/2015,light rain,75,6.74,0.83
+Murrumbateman,AU,31/5/2015,sky is clear,55,7.92,5.99
+Murwillumbah,AU,28/5/2015,sky is clear,0,17.64,1.32
+Murwillumbah,AU,29/5/2015,light rain,36,17.73,1.12
+Murwillumbah,AU,30/5/2015,light rain,60,17.49,1.44
+Murwillumbah,AU,31/5/2015,light rain,73,19.62,1.79
+Murwillumbah,AU,1/6/2015,sky is clear,0,16.23,2.84
+Muswellbrook,AU,28/5/2015,light rain,20,14.89,1.62
+Muswellbrook,AU,29/5/2015,moderate rain,92,12.38,4.02
+Muswellbrook,AU,30/5/2015,light rain,94,11.74,1.32
+Muswellbrook,AU,31/5/2015,light rain,100,14.32,4.66
+Muswellbrook,AU,1/6/2015,light rain,0,7.38,3.72
+Nairne,AU,27/5/2015,scattered clouds,32,11.09,2.96
+Nairne,AU,28/5/2015,light rain,32,17.71,5.95
+Nairne,AU,29/5/2015,sky is clear,8,14.83,3.22
+Nairne,AU,30/5/2015,light rain,86,11.44,2.85
+Nairne,AU,31/5/2015,light rain,56,12.22,6.73
+Nambour,AU,28/5/2015,light rain,36,18.71,1.67
+Nambour,AU,29/5/2015,light rain,8,18.83,1.42
+Nambour,AU,30/5/2015,light rain,45,20.44,2.02
+Nambour,AU,31/5/2015,light rain,71,20.17,1.82
+Nambour,AU,1/6/2015,sky is clear,0,17.13,4.1
+Nambucca,AU,28/5/2015,sky is clear,0,17.21,1.67
+Nambucca,AU,29/5/2015,overcast clouds,88,19.03,2.02
+Nambucca,AU,30/5/2015,light rain,68,17.64,1.32
+Nambucca,AU,31/5/2015,light rain,56,19.67,3.63
+Nambucca,AU,1/6/2015,sky is clear,0,14.83,6.1
+Nambucca Heads,AU,28/5/2015,sky is clear,0,17.21,1.67
+Nambucca Heads,AU,29/5/2015,overcast clouds,88,19.03,2.02
+Nambucca Heads,AU,30/5/2015,light rain,68,17.64,1.32
+Nambucca Heads,AU,31/5/2015,light rain,56,19.67,3.63
+Nambucca Heads,AU,1/6/2015,sky is clear,0,14.83,6.1
+Naracoorte,AU,27/5/2015,light rain,76,12.94,5.01
+Naracoorte,AU,28/5/2015,moderate rain,92,14.31,5.9
+Naracoorte,AU,29/5/2015,scattered clouds,36,13.88,2.97
+Naracoorte,AU,30/5/2015,moderate rain,76,11.54,5.71
+Naracoorte,AU,31/5/2015,light rain,71,9.67,6.76
+Narara,AU,28/5/2015,light rain,92,14.06,1.72
+Narara,AU,29/5/2015,light rain,92,15.08,2.72
+Narara,AU,30/5/2015,light rain,78,12.99,1.37
+Narara,AU,31/5/2015,light rain,94,15.72,3.39
+Narara,AU,1/6/2015,sky is clear,0,10.73,3.56
+Narellan,AU,28/5/2015,few clouds,20,17.01,2.47
+Narellan,AU,29/5/2015,light rain,88,17.08,4.87
+Narellan,AU,30/5/2015,light rain,64,13.89,1.83
+Narellan,AU,31/5/2015,light rain,73,16.67,4.16
+Narellan,AU,1/6/2015,sky is clear,0,12.48,7.53
+Narooma,AU,28/5/2015,sky is clear,8,13.79,1.52
+Narooma,AU,29/5/2015,sky is clear,0,16.83,1.67
+Narooma,AU,30/5/2015,light rain,26,11.79,1.81
+Narooma,AU,31/5/2015,light rain,0,12.82,4.41
+Narooma,AU,1/6/2015,light rain,5,12.03,6.97
+Narrabeen,AU,28/5/2015,few clouds,20,17.01,2.47
+Narrabeen,AU,29/5/2015,light rain,88,17.08,4.87
+Narrabeen,AU,30/5/2015,light rain,64,13.89,1.83
+Narrabeen,AU,31/5/2015,light rain,73,16.67,4.16
+Narrabeen,AU,1/6/2015,sky is clear,0,12.48,7.53
+Narrabri,AU,28/5/2015,few clouds,12,15.41,2.12
+Narrabri,AU,29/5/2015,light rain,92,15.13,2.57
+Narrabri,AU,30/5/2015,light rain,54,15.79,2.11
+Narrabri,AU,31/5/2015,moderate rain,87,15.62,3.34
+Narrabri,AU,1/6/2015,light rain,1,7.78,4.45
+Narrandera,AU,27/5/2015,light rain,88,10.09,1.76
+Narrandera,AU,28/5/2015,light rain,12,14.93,2.95
+Narrandera,AU,29/5/2015,light rain,80,12.88,4.07
+Narrandera,AU,30/5/2015,light rain,94,10.19,2.23
+Narrandera,AU,31/5/2015,light rain,77,9.22,7.03
+Narrogin,AU,27/5/2015,light rain,48,5.99,1.26
+Narrogin,AU,28/5/2015,light rain,44,14.16,4
+Narrogin,AU,29/5/2015,sky is clear,0,13.98,2.12
+Narrogin,AU,30/5/2015,light rain,7,17.19,3.67
+Narrogin,AU,31/5/2015,sky is clear,0,16.96,1.23
+Narromine,AU,27/5/2015,light rain,92,13.39,3.71
+Narromine,AU,28/5/2015,moderate rain,92,15.33,4.4
+Narromine,AU,29/5/2015,heavy intensity rain,92,15.03,1.82
+Narromine,AU,30/5/2015,moderate rain,82,12.99,2.31
+Narromine,AU,31/5/2015,moderate rain,100,13.27,4.73
+Nedlands,AU,27/5/2015,sky is clear,0,10.54,2.51
+Nedlands,AU,28/5/2015,light rain,0,14.74,5.35
+Nedlands,AU,29/5/2015,sky is clear,0,15.48,5.47
+Nedlands,AU,30/5/2015,sky is clear,0,17.64,2.73
+Nedlands,AU,31/5/2015,sky is clear,0,18.01,1.79
+Nelson Bay,AU,28/5/2015,light rain,24,17.26,4.12
+Nelson Bay,AU,29/5/2015,light rain,92,17.08,7.12
+Nelson Bay,AU,30/5/2015,moderate rain,58,16.89,1.76
+Nelson Bay,AU,31/5/2015,light rain,94,18.17,6.76
+Nelson Bay,AU,1/6/2015,light rain,0,13.53,9.67
+Nerang,AU,28/5/2015,sky is clear,0,17.64,1.32
+Nerang,AU,29/5/2015,light rain,36,17.73,1.12
+Nerang,AU,30/5/2015,light rain,60,17.49,1.44
+Nerang,AU,31/5/2015,light rain,73,19.62,1.79
+Nerang,AU,1/6/2015,sky is clear,0,16.23,2.84
+Neutral Bay,AU,28/5/2015,few clouds,20,17.01,2.47
+Neutral Bay,AU,29/5/2015,light rain,88,17.08,4.87
+Neutral Bay,AU,30/5/2015,light rain,64,13.89,1.83
+Neutral Bay,AU,31/5/2015,light rain,73,16.67,4.16
+Neutral Bay,AU,1/6/2015,sky is clear,0,12.48,7.53
+New Norfolk,AU,27/5/2015,sky is clear,0,8.15,5.01
+New Norfolk,AU,28/5/2015,light rain,32,13.84,7.75
+New Norfolk,AU,29/5/2015,light rain,56,7.68,5.67
+New Norfolk,AU,30/5/2015,light rain,61,11.24,7.28
+New Norfolk,AU,31/5/2015,sky is clear,47,7.62,0.62
+New Town,AU,27/5/2015,sky is clear,0,9.44,5.01
+New Town,AU,28/5/2015,light rain,32,14.35,7.75
+New Town,AU,29/5/2015,light rain,56,7.68,5.67
+New Town,AU,30/5/2015,light rain,61,11.24,7.28
+New Town,AU,31/5/2015,sky is clear,47,7.62,0.62
+Newcastle,AU,28/5/2015,light rain,24,17.26,4.12
+Newcastle,AU,29/5/2015,light rain,92,17.08,7.12
+Newcastle,AU,30/5/2015,moderate rain,58,16.89,1.76
+Newcastle,AU,31/5/2015,light rain,94,18.17,6.76
+Newcastle,AU,1/6/2015,light rain,0,13.53,9.67
+Newnham,AU,27/5/2015,light rain,92,13.9,9.31
+Newnham,AU,28/5/2015,heavy intensity rain,92,14.24,15.2
+Newnham,AU,29/5/2015,light rain,24,13.18,13.67
+Newnham,AU,30/5/2015,moderate rain,32,12.34,9.26
+Newnham,AU,31/5/2015,moderate rain,28,10.17,7.16
+Newport,AU,28/5/2015,few clouds,20,17.01,2.47
+Newport,AU,29/5/2015,light rain,88,17.08,4.87
+Newport,AU,30/5/2015,light rain,64,13.89,1.83
+Newport,AU,31/5/2015,light rain,73,16.67,4.16
+Newport,AU,1/6/2015,sky is clear,0,12.48,7.53
+Nhulunbuy,AU,27/5/2015,sky is clear,0,27.09,7.51
+Nhulunbuy,AU,29/5/2015,heavy intensity rain,88,25.23,11.97
+Nhulunbuy,AU,30/5/2015,moderate rain,40,27.24,5.94
+Nhulunbuy,AU,31/5/2015,moderate rain,16,26.27,3.19
+Nightcliff,AU,27/5/2015,few clouds,12,27.69,7.16
+Noarlunga,AU,27/5/2015,scattered clouds,32,11.09,2.96
+Noarlunga,AU,28/5/2015,light rain,32,17.71,5.95
+Noarlunga,AU,29/5/2015,sky is clear,8,14.83,3.22
+Noarlunga,AU,30/5/2015,light rain,86,11.44,2.85
+Noarlunga,AU,31/5/2015,light rain,56,12.22,6.73
+Noosa Heads,AU,28/5/2015,scattered clouds,32,21.84,1.97
+Noosa Heads,AU,29/5/2015,light rain,56,20.73,0.67
+Noosa Heads,AU,30/5/2015,moderate rain,45,21.19,1.26
+Noosa Heads,AU,31/5/2015,moderate rain,56,21.62,1.72
+Noosa Heads,AU,1/6/2015,light rain,0,19.13,2.82
+Normanhurst,AU,28/5/2015,few clouds,20,17.01,2.47
+Normanhurst,AU,29/5/2015,light rain,88,17.08,4.87
+Normanhurst,AU,30/5/2015,light rain,64,13.89,1.83
+Normanhurst,AU,31/5/2015,light rain,73,16.67,4.16
+Normanhurst,AU,1/6/2015,sky is clear,0,12.48,7.53
+North Beach,AU,27/5/2015,sky is clear,0,10.54,2.51
+North Beach,AU,28/5/2015,light rain,0,14.74,5.35
+North Beach,AU,29/5/2015,sky is clear,0,15.48,5.47
+North Beach,AU,30/5/2015,sky is clear,0,17.64,2.73
+North Beach,AU,31/5/2015,sky is clear,0,18.01,1.79
+North Brighton,AU,27/5/2015,light rain,24,12.55,3.86
+North Brighton,AU,28/5/2015,moderate rain,0,15.84,4.9
+North Brighton,AU,29/5/2015,scattered clouds,36,12.63,3.37
+North Brighton,AU,30/5/2015,light rain,61,11.49,6.57
+North Brighton,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+North Fremantle,AU,27/5/2015,sky is clear,0,10.54,2.51
+North Fremantle,AU,28/5/2015,light rain,0,14.74,5.35
+North Fremantle,AU,29/5/2015,sky is clear,0,15.48,5.47
+North Fremantle,AU,30/5/2015,sky is clear,0,17.64,2.73
+North Fremantle,AU,31/5/2015,sky is clear,0,18.01,1.79
+North Melbourne,AU,27/5/2015,light rain,24,12.14,3.86
+North Melbourne,AU,28/5/2015,moderate rain,0,15.67,4.9
+North Melbourne,AU,29/5/2015,scattered clouds,36,12.63,3.37
+North Melbourne,AU,30/5/2015,light rain,61,11.49,6.57
+North Melbourne,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+North Shore,AU,28/5/2015,sky is clear,0,17.21,1.67
+North Shore,AU,29/5/2015,overcast clouds,88,19.03,2.02
+North Shore,AU,30/5/2015,light rain,68,17.64,1.32
+North Shore,AU,31/5/2015,light rain,56,19.67,3.63
+North Shore,AU,1/6/2015,sky is clear,0,14.83,6.1
+North Turramurra,AU,28/5/2015,few clouds,20,16.89,2.47
+North Turramurra,AU,29/5/2015,light rain,88,17.08,4.87
+North Turramurra,AU,30/5/2015,light rain,64,13.89,1.83
+North Turramurra,AU,31/5/2015,light rain,73,16.67,4.16
+North Turramurra,AU,1/6/2015,sky is clear,0,12.48,7.53
+North Wonthaggi,AU,27/5/2015,light rain,12,15.54,10.96
+North Wonthaggi,AU,28/5/2015,moderate rain,0,16.08,13.3
+North Wonthaggi,AU,29/5/2015,moderate rain,92,13.83,11.52
+North Wonthaggi,AU,30/5/2015,light rain,64,13.04,9.36
+North Wonthaggi,AU,31/5/2015,heavy intensity rain,63,11.17,12.47
+Northam,AU,27/5/2015,sky is clear,0,3.69,2.21
+Northam,AU,28/5/2015,sky is clear,0,13.78,3.65
+Northam,AU,29/5/2015,sky is clear,0,14.38,4.22
+Northam,AU,30/5/2015,sky is clear,0,17.49,3.18
+Northam,AU,31/5/2015,sky is clear,0,17.86,2.46
+Northmead,AU,28/5/2015,few clouds,20,17.01,2.47
+Northmead,AU,29/5/2015,light rain,88,17.08,4.87
+Northmead,AU,30/5/2015,light rain,64,13.89,1.83
+Northmead,AU,31/5/2015,light rain,73,16.67,4.16
+Northmead,AU,1/6/2015,sky is clear,0,12.48,7.53
+Notting Hill,AU,27/5/2015,light rain,24,12.14,3.86
+Notting Hill,AU,28/5/2015,moderate rain,0,15.67,4.9
+Notting Hill,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Notting Hill,AU,30/5/2015,light rain,61,11.49,6.57
+Notting Hill,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Nowra,AU,28/5/2015,sky is clear,0,18.37,3.17
+Nowra,AU,29/5/2015,light rain,92,17.88,5.27
+Nowra,AU,30/5/2015,light rain,46,16.14,2.32
+Nowra,AU,31/5/2015,light rain,17,16.62,7.18
+Nowra,AU,1/6/2015,light rain,10,14.63,11.23
+Nuriootpa,AU,27/5/2015,light rain,76,11.94,3.96
+Nuriootpa,AU,28/5/2015,light rain,68,17.76,6.1
+Nuriootpa,AU,29/5/2015,scattered clouds,36,14.53,2.67
+Nuriootpa,AU,30/5/2015,light rain,98,9.94,1.96
+Nuriootpa,AU,31/5/2015,light rain,38,10.62,5.77
+Nyngan,AU,27/5/2015,scattered clouds,32,8.24,1.21
+Nyngan,AU,28/5/2015,moderate rain,92,14.05,2.65
+Nyngan,AU,29/5/2015,heavy intensity rain,92,15.53,1.87
+Nyngan,AU,30/5/2015,moderate rain,92,12.54,3.22
+Nyngan,AU,31/5/2015,light rain,95,12.62,5.27
+Oakleigh East,AU,27/5/2015,light rain,24,12.55,3.86
+Oakleigh East,AU,28/5/2015,moderate rain,0,15.84,4.9
+Oakleigh East,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Oakleigh East,AU,30/5/2015,light rain,61,11.49,6.57
+Oakleigh East,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Oakleigh South,AU,27/5/2015,light rain,24,12.55,3.86
+Oakleigh South,AU,28/5/2015,moderate rain,0,15.84,4.9
+Oakleigh South,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Oakleigh South,AU,30/5/2015,light rain,61,11.49,6.57
+Oakleigh South,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Oatley,AU,28/5/2015,few clouds,20,17.01,2.47
+Oatley,AU,29/5/2015,light rain,88,17.08,4.87
+Oatley,AU,30/5/2015,light rain,64,13.89,1.83
+Oatley,AU,31/5/2015,light rain,73,16.67,4.16
+Oatley,AU,1/6/2015,sky is clear,0,12.48,7.53
+Oberon,AU,28/5/2015,light rain,56,11.25,1.17
+Oberon,AU,29/5/2015,light rain,88,12.63,2.37
+Oberon,AU,30/5/2015,light rain,82,8.49,0.95
+Oberon,AU,31/5/2015,light rain,83,11.62,3.34
+Oberon,AU,1/6/2015,light rain,9,6.88,4.45
+Old Bar,AU,28/5/2015,sky is clear,0,19.35,3.27
+Old Bar,AU,29/5/2015,light rain,92,19.43,4.02
+Old Bar,AU,30/5/2015,light rain,69,18.79,0.91
+Old Bar,AU,31/5/2015,moderate rain,99,19.97,5.75
+Old Bar,AU,1/6/2015,light rain,0,15.03,10.57
+Old Beach,AU,27/5/2015,sky is clear,0,8.15,5.01
+Old Beach,AU,28/5/2015,light rain,32,13.84,7.75
+Old Beach,AU,29/5/2015,light rain,56,7.68,5.67
+Old Beach,AU,30/5/2015,light rain,61,11.24,7.28
+Old Beach,AU,31/5/2015,sky is clear,47,7.62,0.62
+Orange,AU,27/5/2015,light rain,92,10.14,1.41
+Orange,AU,28/5/2015,moderate rain,92,13.64,3.55
+Orange,AU,29/5/2015,moderate rain,92,12.18,3.47
+Orange,AU,30/5/2015,moderate rain,83,9.74,1.65
+Orange,AU,31/5/2015,moderate rain,99,11.02,5.07
+Oxenford,AU,28/5/2015,sky is clear,0,17.01,1.32
+Oxenford,AU,29/5/2015,light rain,36,17.73,1.12
+Oxenford,AU,30/5/2015,light rain,60,17.49,1.44
+Oxenford,AU,31/5/2015,light rain,73,19.62,1.79
+Oxenford,AU,1/6/2015,sky is clear,0,16.23,2.84
+Oyster Bay,AU,28/5/2015,few clouds,20,16.89,2.47
+Oyster Bay,AU,29/5/2015,light rain,88,17.08,4.87
+Oyster Bay,AU,30/5/2015,light rain,64,13.89,1.83
+Oyster Bay,AU,31/5/2015,light rain,73,16.67,4.16
+Oyster Bay,AU,1/6/2015,sky is clear,0,12.48,7.53
+Paddington,AU,28/5/2015,few clouds,20,17.01,2.47
+Paddington,AU,29/5/2015,light rain,88,17.08,4.87
+Paddington,AU,30/5/2015,light rain,64,13.89,1.83
+Paddington,AU,31/5/2015,light rain,73,16.67,4.16
+Paddington,AU,1/6/2015,sky is clear,0,12.48,7.53
+Palmerston,AU,27/5/2015,few clouds,12,27.69,7.16
+Parkes,AU,27/5/2015,light rain,92,10.79,1.76
+Parkes,AU,28/5/2015,light rain,92,14.9,3.45
+Parkes,AU,29/5/2015,moderate rain,92,12.93,2.97
+Parkes,AU,30/5/2015,moderate rain,92,11.19,1.92
+Parkes,AU,31/5/2015,moderate rain,97,11.27,5.45
+Perth,AU,27/5/2015,sky is clear,0,10.54,2.51
+Perth,AU,28/5/2015,light rain,0,14.74,5.35
+Perth,AU,29/5/2015,sky is clear,0,15.48,5.47
+Perth,AU,30/5/2015,sky is clear,0,17.64,2.73
+Perth,AU,31/5/2015,sky is clear,0,18.01,1.79
+Port Augusta,AU,27/5/2015,light rain,0,12.04,4.46
+Port Augusta,AU,28/5/2015,light rain,92,14.69,3.4
+Port Augusta,AU,29/5/2015,light rain,92,13.78,1.97
+Port Augusta,AU,30/5/2015,light rain,91,11.64,1.55
+Port Augusta,AU,31/5/2015,light rain,51,11.47,4.86
+Port Hedland,AU,27/5/2015,overcast clouds,92,23.05,3.11
+Port Hedland,AU,28/5/2015,scattered clouds,32,23.59,3.25
+Port Hedland,AU,29/5/2015,overcast clouds,92,23.58,3.32
+Port Hedland,AU,30/5/2015,sky is clear,2,24.39,2.82
+Port Hedland,AU,31/5/2015,light rain,38,24.21,6.19
+Port Lincoln,AU,27/5/2015,broken clouds,68,15.64,7.71
+Port Lincoln,AU,28/5/2015,light rain,88,17.19,9.05
+Port Lincoln,AU,29/5/2015,overcast clouds,88,15.73,4.27
+Port Lincoln,AU,30/5/2015,moderate rain,33,14.49,6.89
+Port Lincoln,AU,31/5/2015,moderate rain,46,14.77,9.57
+Port Macquarie,AU,28/5/2015,sky is clear,0,17.21,1.67
+Port Macquarie,AU,29/5/2015,overcast clouds,88,19.03,2.02
+Port Macquarie,AU,30/5/2015,light rain,68,17.64,1.32
+Port Macquarie,AU,31/5/2015,light rain,56,19.67,3.63
+Port Macquarie,AU,1/6/2015,sky is clear,0,14.83,6.1
+Port Pirie,AU,27/5/2015,light rain,0,12.04,4.46
+Port Pirie,AU,28/5/2015,light rain,92,14.69,3.4
+Port Pirie,AU,29/5/2015,light rain,92,13.78,1.97
+Port Pirie,AU,30/5/2015,light rain,91,11.64,1.55
+Port Pirie,AU,31/5/2015,light rain,51,11.47,4.86
+Portland,AU,27/5/2015,light rain,36,11.79,8.51
+Portland,AU,28/5/2015,moderate rain,44,14.19,10.15
+Portland,AU,29/5/2015,scattered clouds,36,12.43,5.57
+Portland,AU,30/5/2015,moderate rain,81,11.74,7.96
+Portland,AU,31/5/2015,moderate rain,57,8.92,9.6
+Queanbeyan,AU,27/5/2015,light rain,92,8.54,1.36
+Queanbeyan,AU,28/5/2015,light rain,76,12.07,2.55
+Queanbeyan,AU,29/5/2015,moderate rain,88,11.53,6.37
+Queanbeyan,AU,30/5/2015,light rain,75,6.74,0.83
+Queanbeyan,AU,31/5/2015,sky is clear,55,7.92,5.99
+Raymond Terrace,AU,28/5/2015,light rain,24,17.26,4.12
+Raymond Terrace,AU,29/5/2015,light rain,92,17.08,7.12
+Raymond Terrace,AU,30/5/2015,moderate rain,58,16.89,1.76
+Raymond Terrace,AU,31/5/2015,light rain,94,18.17,6.76
+Raymond Terrace,AU,1/6/2015,light rain,0,13.53,9.67
+Rockhampton,AU,28/5/2015,few clouds,24,23.9,7.97
+Rockhampton,AU,29/5/2015,sky is clear,0,24.03,5.87
+Rockhampton,AU,30/5/2015,moderate rain,63,22.74,3.08
+Rockhampton,AU,31/5/2015,heavy intensity rain,64,22.87,1.66
+Rockhampton,AU,1/6/2015,light rain,46,22.33,5.12
+Roebourne,AU,27/5/2015,light rain,64,16.09,2.41
+Roebourne,AU,28/5/2015,broken clouds,64,21.76,2.1
+Roebourne,AU,29/5/2015,sky is clear,0,23.28,2.87
+Roebourne,AU,30/5/2015,sky is clear,0,22.49,2.41
+Roebourne,AU,31/5/2015,light rain,13,23.01,4.95
+Roma,AU,27/5/2015,sky is clear,8,6.44,1.36
+Roma,AU,28/5/2015,sky is clear,0,21.34,2.65
+Roma,AU,29/5/2015,few clouds,20,23.48,2.92
+Roma,AU,30/5/2015,light rain,35,17.69,2.08
+Roma,AU,31/5/2015,light rain,85,20.07,2.54
+Sale,AU,27/5/2015,sky is clear,0,11.54,3.01
+Sale,AU,28/5/2015,sky is clear,0,16.41,3.85
+Sale,AU,29/5/2015,sky is clear,0,13.73,3.62
+Sale,AU,30/5/2015,light rain,38,10.04,2.33
+Sale,AU,31/5/2015,moderate rain,62,10.42,5.51
+Sawtell,AU,28/5/2015,sky is clear,0,16.71,1.52
+Sawtell,AU,29/5/2015,sky is clear,8,17.38,1.77
+Sawtell,AU,30/5/2015,light rain,33,17.74,1.62
+Sawtell,AU,31/5/2015,light rain,10,19.42,2.95
+Sawtell,AU,1/6/2015,sky is clear,0,15.93,2.65
+Singleton,AU,28/5/2015,light rain,92,14.06,1.72
+Singleton,AU,29/5/2015,light rain,92,15.08,2.72
+Singleton,AU,30/5/2015,light rain,78,12.99,1.37
+Singleton,AU,31/5/2015,light rain,94,15.72,3.39
+Singleton,AU,1/6/2015,sky is clear,0,10.73,3.56
+Somerville,AU,27/5/2015,light rain,24,12.55,3.86
+Somerville,AU,28/5/2015,moderate rain,0,15.84,4.9
+Somerville,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Somerville,AU,30/5/2015,light rain,61,11.49,6.57
+Somerville,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Stawell,AU,27/5/2015,light rain,68,10.19,5.06
+Stawell,AU,28/5/2015,moderate rain,24,13.86,7.6
+Stawell,AU,29/5/2015,light rain,24,12.28,4.52
+Stawell,AU,30/5/2015,light rain,92,9.79,3.83
+Stawell,AU,31/5/2015,light rain,85,8.07,7.99
+Sunbury,AU,27/5/2015,light rain,24,12.55,3.86
+Sunbury,AU,28/5/2015,moderate rain,0,15.84,4.9
+Sunbury,AU,29/5/2015,scattered clouds,36,12.63,3.37
+Sunbury,AU,30/5/2015,light rain,61,11.49,6.57
+Sunbury,AU,31/5/2015,heavy intensity rain,72,9.47,8.38
+Swan Hill,AU,27/5/2015,few clouds,12,8.79,2.21
+Swan Hill,AU,28/5/2015,light rain,12,18.48,4.75
+Swan Hill,AU,29/5/2015,light rain,36,14.28,2.87
+Swan Hill,AU,30/5/2015,light rain,98,9.49,1.63
+Swan Hill,AU,31/5/2015,light rain,54,10.02,7.42
+Sydney,AU,28/5/2015,few clouds,20,17.01,2.47
+Sydney,AU,29/5/2015,light rain,88,17.08,4.87
+Sydney,AU,30/5/2015,light rain,64,13.89,1.83
+Sydney,AU,31/5/2015,light rain,73,16.67,4.16
+Sydney,AU,1/6/2015,sky is clear,0,12.48,7.53
+Tamworth,AU,28/5/2015,light rain,8,11.04,1.72
+Tamworth,AU,29/5/2015,light rain,92,12.33,2.82
+Tamworth,AU,30/5/2015,light rain,81,11.49,1.67
+Tamworth,AU,31/5/2015,moderate rain,98,14.02,5.39
+Tamworth,AU,1/6/2015,light rain,9,5.23,2.96
+Taree,AU,28/5/2015,sky is clear,0,14.51,1.27
+Taree,AU,29/5/2015,light rain,80,14.83,2.37
+Taree,AU,30/5/2015,light rain,73,13.74,1.19
+Taree,AU,31/5/2015,moderate rain,99,16.02,2.71
+Taree,AU,1/6/2015,sky is clear,0,10.18,4.02
+Toowoomba,AU,28/5/2015,sky is clear,0,14.59,2.22
+Toowoomba,AU,29/5/2015,broken clouds,68,15.98,1.97
+Toowoomba,AU,30/5/2015,light rain,79,15.49,1.4
+Toowoomba,AU,31/5/2015,moderate rain,77,18.67,4.17
+Toowoomba,AU,1/6/2015,sky is clear,0,11.13,5.98
+Torquay,AU,28/5/2015,broken clouds,56,22.31,2.67
+Torquay,AU,29/5/2015,few clouds,24,22.23,1.67
+Torquay,AU,30/5/2015,moderate rain,44,22.39,1.54
+Torquay,AU,31/5/2015,moderate rain,66,22.82,2.78
+Torquay,AU,1/6/2015,moderate rain,44,20.78,4.37
+Townsville,AU,27/5/2015,light rain,92,22.89,8.36
+Townsville,AU,28/5/2015,light rain,8,25.67,9
+Townsville,AU,29/5/2015,light rain,92,25.23,7.07
+Townsville,AU,30/5/2015,light rain,5,23.79,3.29
+Townsville,AU,31/5/2015,moderate rain,46,24.72,5.07
+Traralgon,AU,27/5/2015,sky is clear,0,11.1,3.01
+Traralgon,AU,28/5/2015,sky is clear,0,16.24,3.85
+Traralgon,AU,29/5/2015,sky is clear,0,13.73,3.62
+Traralgon,AU,30/5/2015,light rain,38,10.04,2.33
+Traralgon,AU,31/5/2015,moderate rain,62,10.42,5.51
+Tumut,AU,27/5/2015,light rain,92,9.24,1.16
+Tumut,AU,28/5/2015,light rain,80,12.73,1.75
+Tumut,AU,29/5/2015,moderate rain,92,12.18,4.67
+Tumut,AU,30/5/2015,light rain,86,8.74,1.43
+Tumut,AU,31/5/2015,sky is clear,51,8.47,5.46
+Ulladulla,AU,28/5/2015,light rain,24,12.56,1.52
+Ulladulla,AU,29/5/2015,light rain,80,13.58,3.87
+Ulladulla,AU,30/5/2015,light rain,61,8.99,1.39
+Ulladulla,AU,31/5/2015,light rain,30,11.12,4.93
+Ulladulla,AU,1/6/2015,light rain,4,8.83,5.53
+Ulverstone,AU,27/5/2015,light rain,68,13.39,7.61
+Ulverstone,AU,28/5/2015,heavy intensity rain,92,13.13,12.2
+Ulverstone,AU,29/5/2015,scattered clouds,44,13.18,11.87
+Ulverstone,AU,30/5/2015,heavy intensity rain,40,11.89,8.24
+Ulverstone,AU,31/5/2015,moderate rain,77,8.77,6.63
+Victor Harbor,AU,27/5/2015,scattered clouds,36,15.44,8.61
+Victor Harbor,AU,28/5/2015,light rain,68,15.94,10.25
+Victor Harbor,AU,29/5/2015,broken clouds,80,15.48,6.02
+Victor Harbor,AU,30/5/2015,moderate rain,71,13.89,8.47
+Victor Harbor,AU,31/5/2015,moderate rain,83,13.32,10.83
+Victoria Point,AU,28/5/2015,sky is clear,0,17.01,1.32
+Victoria Point,AU,29/5/2015,light rain,36,17.73,1.12
+Victoria Point,AU,30/5/2015,light rain,60,17.49,1.44
+Victoria Point,AU,31/5/2015,light rain,73,19.62,1.79
+Victoria Point,AU,1/6/2015,sky is clear,0,16.23,2.84
+Wagga Wagga,AU,27/5/2015,light rain,88,10.09,1.76
+Wagga Wagga,AU,28/5/2015,light rain,12,14.93,2.95
+Wagga Wagga,AU,29/5/2015,light rain,80,12.88,4.07
+Wagga Wagga,AU,30/5/2015,light rain,94,10.19,2.23
+Wagga Wagga,AU,31/5/2015,light rain,77,9.22,7.03
+Wangaratta,AU,27/5/2015,light rain,76,9.75,3.01
+Wangaratta,AU,28/5/2015,light rain,68,15.09,4.7
+Wangaratta,AU,29/5/2015,sky is clear,8,13.83,4.77
+Wangaratta,AU,30/5/2015,light rain,94,9.89,2.97
+Wangaratta,AU,31/5/2015,moderate rain,73,8.87,6.07
+Warragul,AU,27/5/2015,light rain,44,11.39,2.86
+Warragul,AU,28/5/2015,moderate rain,0,14.16,3.9
+Warragul,AU,29/5/2015,broken clouds,76,10.63,2.67
+Warragul,AU,30/5/2015,light rain,86,10.29,2.95
+Warragul,AU,31/5/2015,heavy intensity rain,50,7.27,4.44
+Warrnambool,AU,27/5/2015,light rain,36,11.79,8.51
+Warrnambool,AU,28/5/2015,moderate rain,44,14.19,10.15
+Warrnambool,AU,29/5/2015,scattered clouds,36,12.43,5.57
+Warrnambool,AU,30/5/2015,moderate rain,81,11.74,7.96
+Warrnambool,AU,31/5/2015,moderate rain,57,8.92,9.6
+Warwick,AU,28/5/2015,sky is clear,0,14.59,2.22
+Warwick,AU,29/5/2015,broken clouds,68,15.98,1.97
+Warwick,AU,30/5/2015,light rain,79,15.49,1.4
+Warwick,AU,31/5/2015,moderate rain,77,18.67,4.17
+Warwick,AU,1/6/2015,sky is clear,0,11.13,5.98
+Wellington,AU,27/5/2015,light rain,92,10.14,1.41
+Wellington,AU,28/5/2015,moderate rain,92,13.64,3.55
+Wellington,AU,29/5/2015,moderate rain,92,12.18,3.47
+Wellington,AU,30/5/2015,moderate rain,83,9.74,1.65
+Wellington,AU,31/5/2015,moderate rain,99,11.02,5.07
+Whyalla,AU,27/5/2015,light rain,0,12.04,4.46
+Whyalla,AU,28/5/2015,light rain,92,14.69,3.4
+Whyalla,AU,29/5/2015,light rain,92,13.78,1.97
+Whyalla,AU,30/5/2015,light rain,91,11.64,1.55
+Whyalla,AU,31/5/2015,light rain,51,11.47,4.86
+Wodonga,AU,27/5/2015,light rain,92,11.19,2.11
+Wodonga,AU,28/5/2015,heavy intensity rain,92,12.31,3.45
+Wodonga,AU,29/5/2015,light rain,88,11.63,3.42
+Wodonga,AU,30/5/2015,light rain,89,8.39,1.55
+Wodonga,AU,31/5/2015,moderate rain,90,7.67,4.61
+Wollongong,AU,28/5/2015,few clouds,20,17.01,2.47
+Wollongong,AU,29/5/2015,light rain,88,17.08,4.87
+Wollongong,AU,30/5/2015,light rain,64,13.89,1.83
+Wollongong,AU,31/5/2015,light rain,73,16.67,4.16
+Wollongong,AU,1/6/2015,sky is clear,0,12.48,7.53
+Yeppoon,AU,28/5/2015,few clouds,24,23.9,7.97
+Yeppoon,AU,29/5/2015,sky is clear,0,24.03,5.87
+Yeppoon,AU,30/5/2015,moderate rain,63,22.74,3.08
+Yeppoon,AU,31/5/2015,heavy intensity rain,64,22.87,1.66
+Yeppoon,AU,1/6/2015,light rain,46,22.33,5.12
+Young,AU,27/5/2015,light rain,92,10.29,1.61
+Young,AU,28/5/2015,light rain,76,13.69,2.4
+Young,AU,29/5/2015,moderate rain,92,12.63,4.07
+Young,AU,30/5/2015,light rain,87,9.64,2.47
+Young,AU,31/5/2015,moderate rain,77,9.92,5.55
